@@ -1,0 +1,1126 @@
+explotacion;tipo;especie;clasif;municipio;provincia;oca;huso;longitud_utm;latitud_utm;sistema_productivo;capacidad_productiva;criterio_sostenibilidad;capacidad
+ES220010001001;Producción y reproducción;Abejas;Producción productos apícolas ;Abiego;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;;20
+ES220010001002;Producción y reproducción;Abejas;Producción productos apícolas ;Abiego;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;50
+ES220010001003;Producción y reproducción;Abejas;Producción productos apícolas ;Abiego;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;149
+ES220010001006;Producción y reproducción;Abejas;Producción productos apícolas ;Abiego;HUESCA;BARBASTRO;;;;Trashumante;Profesional;;150
+ES220010001015;Producción y reproducción;Abejas;Producción productos apícolas ;Abiego;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;110
+ES220020000602;Producción y reproducción;Abejas;Producción productos apícolas ;Abizanda;HUESCA;BOLTAÑA;;;;Trashumante;Profesional;;150
+ES220020001035;Producción y reproducción;Abejas;Mixta;Abizanda;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;300
+ES220040001001;Producción y reproducción;Abejas;Producción productos apícolas ;Agüero;HUESCA;AYERBE;30;682313;4691385;Trashumante;No Profesional;Convencional;25
+ES220040001003;Producción y reproducción;Abejas;Producción productos apícolas ;Agüero;HUESCA;AYERBE;;;;Trashumante;No Profesional;;25
+ES220040001051;Producción y reproducción;Abejas;Producción productos apícolas ;Agüero;HUESCA;AYERBE;;;;Trashumante;No Profesional;Convencional;100
+ES220040001160;Producción y reproducción;Abejas;Producción productos apícolas ;Agüero;HUESCA;AYERBE;;;;Trashumante;No Profesional;Convencional;70
+ES220040001235;Producción y reproducción;Abejas;Producción productos apícolas ;Agüero;HUESCA;AYERBE;;;;Trashumante;No Profesional;Convencional;50
+ES220070001463;Producción y reproducción;Abejas;Mixta;Albalate de Cinca;HUESCA;MONZÓN;;;;Trashumante;No Profesional;Convencional;60
+ES220080001421;Producción y reproducción;Abejas;Producción productos apícolas ;Albalatillo;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;;20
+ES220090001001;Producción y reproducción;Abejas;Producción productos apícolas ;Albelda;HUESCA;TAMARITE DE LITERA;;;;Estante;No Profesional;;100
+ES220090001358;Producción y reproducción;Abejas;Producción productos apícolas ;Albelda;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;480
+ES220140001001;Producción y reproducción;Abejas;Producción productos apícolas ;Alcalá de Gurrea;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;60
+ES220150001001;Producción y reproducción;Abejas;Producción productos apícolas ;Alcalá del Obispo;HUESCA;HUESCA;;;;Trashumante;Profesional;Convencional;150
+ES220150001002;Producción y reproducción;Abejas;Producción productos apícolas ;Alcalá del Obispo;HUESCA;HUESCA;30;729100;4658900;Trashumante;No Profesional;Convencional;25
+ES220160001001;Producción y reproducción;Abejas;Mixta;Alcampell;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;50
+ES220160001299;Producción y reproducción;Abejas;Mixta;Alcampell;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;75
+ES220170001006;Producción y reproducción;Abejas;Producción productos apícolas ;Alcolea de Cinca;HUESCA;MONZÓN;;;;Estante;No Profesional;Convencional;30
+ES220170001007;Producción y reproducción;Abejas;Producción productos apícolas ;Alcolea de Cinca;HUESCA;MONZÓN;;;;Trashumante;No Profesional;;25
+ES220180001071;Producción y reproducción;Abejas;Mixta;Alcubierre;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;25
+ES220180001079;Producción y reproducción;Abejas;Mixta;Alcubierre;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;75
+ES220180001488;Producción y reproducción;Abejas;Mixta;Alcubierre;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;125
+ES220200001001;Producción y reproducción;Abejas;Producción productos apícolas ;Alfántega;HUESCA;MONZÓN;;;;Estante;No Profesional;Convencional;20
+ES220200001002;Producción y reproducción;Abejas;Producción productos apícolas ;Alfántega;HUESCA;MONZÓN;;;;Trashumante;No Profesional;;20
+ES220210001001;Producción y reproducción;Abejas;Producción productos apícolas ;Almudévar;HUESCA;HUESCA;;;;Trashumante;Profesional;;450
+ES220210001002;Producción y reproducción;Abejas;Producción productos apícolas ;Almudévar;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;50
+ES220210001004;Producción y reproducción;Abejas;Producción productos apícolas ;Almudévar;HUESCA;HUESCA;;;;Estante;No Profesional;;149
+ES220210001005;Producción y reproducción;Abejas;Producción productos apícolas ;Almudévar;HUESCA;HUESCA;;;;Estante;No Profesional;;149
+ES220210001006;Producción y reproducción;Abejas;Producción productos apícolas ;Almudévar;HUESCA;HUESCA;;;;Estante;No Profesional;;20
+ES220210001007;Producción y reproducción;Abejas;Producción productos apícolas ;Almudévar;HUESCA;HUESCA;;;;Trashumante;Profesional;;400
+ES220210001030;Producción y reproducción;Abejas;Mixta;Almudévar;HUESCA;HUESCA;;;;Trashumante;Profesional;Convencional;205
+ES220210001094;Producción y reproducción;Abejas;Producción productos apícolas ;Almudévar;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;71
+ES220210001127;Producción y reproducción;Abejas;Producción productos apícolas ;Almudévar;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;50
+ES220230001003;Producción y reproducción;Abejas;Producción productos apícolas ;Almuniente;HUESCA;GRAÑÉN;;;;Trashumante;No Profesional;;100
+ES220230001087;Producción y reproducción;Abejas;Producción productos apícolas ;Almuniente;HUESCA;GRAÑÉN;30;712017;4643552;Trashumante;No Profesional;Convencional;24
+ES220240001144;Producción y reproducción;Abejas;Mixta;Alquézar;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;60
+ES220270001001;Producción y reproducción;Abejas;Producción productos apícolas ;Angüés;HUESCA;HUESCA;;;;Trashumante;No Profesional;;100
+ES220280001002;Producción y reproducción;Abejas;Producción productos apícolas ;Ansó;HUESCA;JACA;;;;Estante;No Profesional;Convencional;30
+ES220280001003;Producción y reproducción;Abejas;Producción productos apícolas ;Ansó;HUESCA;JACA;;;;Estante;No Profesional;Convencional;20
+ES220350001001;Producción y reproducción;Abejas;Producción productos apícolas ;Arén;HUESCA;GRAUS;;;;Trashumante;Profesional;;250
+ES220350001002;Producción y reproducción;Abejas;Producción productos apícolas ;Arén;HUESCA;GRAUS;;;;Trashumante;Profesional;;200
+ES220350001540;Producción y reproducción;Abejas;Mixta;Arén;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;30
+ES220370001001;Producción y reproducción;Abejas;Producción productos apícolas ;Arguis;HUESCA;HUESCA;;;;Trashumante;No Profesional;;149
+ES220390001001;Producción y reproducción;Abejas;Producción productos apícolas ;Ayerbe;HUESCA;AYERBE;;;;Trashumante;Profesional;Convencional;300
+ES220390001003;Producción y reproducción;Abejas;Producción productos apícolas ;Ayerbe;HUESCA;AYERBE;;;;Trashumante;No Profesional;;70
+ES220400001001;Producción y reproducción;Abejas;Producción productos apícolas ;Azanuy-Alins;HUESCA;BINÉFAR;;;;Trashumante;No Profesional;Convencional;100
+ES220400001002;Producción y reproducción;Abejas;Producción productos apícolas ;Azanuy-Alins;HUESCA;BINÉFAR;;;;Trashumante;Profesional;Convencional;300
+ES220410001001;Producción y reproducción;Abejas;Producción productos apícolas ;Azara;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;100
+ES220410001003;Producción y reproducción;Abejas;Producción productos apícolas ;Azara;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;;149
+ES220430001002;Producción y reproducción;Abejas;Producción productos apícolas ;Baélls;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;;49
+ES220430001003;Producción y reproducción;Abejas;Producción productos apícolas ;Baélls;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;20
+ES220430001284;Producción y reproducción;Abejas;Producción productos apícolas ;Baélls;HUESCA;TAMARITE DE LITERA;;;;Estante;No Profesional;;50
+ES220430001391;Producción y reproducción;Abejas;Mixta;Baélls;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;;65
+ES220440001068;Producción y reproducción;Abejas;Producción productos apícolas ;Bailo;HUESCA;JACA;;;;Trashumante;Profesional;Convencional;280
+ES220440001228;Producción y reproducción;Abejas;Mixta;Bailo;HUESCA;JACA;;;;Trashumante;No Profesional;Convencional;125
+ES220440001229;Producción y reproducción;Abejas;Producción productos apícolas ;Bailo;HUESCA;JACA;;;;Trashumante;No Profesional;Convencional;18
+ES220450001001;Producción y reproducción;Abejas;Producción productos apícolas ;Baldellou;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;50
+ES220450001514;Producción y reproducción;Abejas;Mixta;Baldellou;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;20
+ES220460001002;Producción y reproducción;Abejas;Producción productos apícolas ;Ballobar;HUESCA;FRAGA;;;;Trashumante;No Profesional;;150
+ES220480001001;Producción y reproducción;Abejas;Producción productos apícolas ;Barbastro;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;49
+ES220480001002;Producción y reproducción;Abejas;Producción productos apícolas ;Barbastro;HUESCA;BARBASTRO;30;761816;4656969;Trashumante;No Profesional;Convencional;150
+ES220480001005;Producción y reproducción;Abejas;Producción productos apícolas ;Barbastro;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;100
+ES220480001006;Producción y reproducción;Abejas;Producción productos apícolas ;Barbastro;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;149
+ES220480001012;Producción y reproducción;Abejas;Producción productos apícolas ;Barbastro;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;;50
+ES220480001064;Producción y reproducción;Abejas;Mixta;Barbastro;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;1800
+ES220480001270;Producción y reproducción;Abejas;Producción productos apícolas ;Barbastro;HUESCA;BARBASTRO;;;;Trashumante;Profesional;Convencional;350
+ES220480001329;Producción y reproducción;Abejas;Mixta;Barbastro;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;100
+ES220480001402;Producción y reproducción;Abejas;Mixta;Barbastro;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;500
+ES220480001437;Producción y reproducción;Abejas;Producción productos apícolas ;Barbastro;HUESCA;BARBASTRO;;;;Trashumante;Profesional;Convencional;300
+ES220510001002;Producción y reproducción;Abejas;Producción productos apícolas ;Bárcabo;HUESCA;BOLTAÑA;;;;Estante;No Profesional;Convencional;60
+ES220510001364;Producción y reproducción;Abejas;Producción productos apícolas ;Bárcabo;HUESCA;BOLTAÑA;30;754296;4687089;Trashumante;No Profesional;Convencional;60
+ES220510001503;Producción y reproducción;Abejas;Mixta;Bárcabo;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;31
+ES220520001002;Producción y reproducción;Abejas;Producción productos apícolas ;Belver de Cinca;HUESCA;FRAGA;;;;Trashumante;No Profesional;;149
+ES220520001003;Producción y reproducción;Abejas;Producción productos apícolas ;Belver de Cinca;HUESCA;FRAGA;;;;Trashumante;Profesional;;250
+ES220530001001;Producción y reproducción;Abejas;Producción productos apícolas ;Benabarre;HUESCA;GRAUS;30;785447;4668535;Trashumante;No Profesional;Convencional;49
+ES220530001002;Producción y reproducción;Abejas;Producción productos apícolas ;Benabarre;HUESCA;GRAUS;30;794975;4664307;Trashumante;No Profesional;;30
+ES220530001171;Producción y reproducción;Abejas;Producción productos apícolas ;Benabarre;HUESCA;GRAUS;30;790399;4669544;Trashumante;No Profesional;Convencional;149
+ES220570001001;Producción y reproducción;Abejas;Producción productos apícolas ;Bielsa;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;;149
+ES220580001002;Producción y reproducción;Abejas;Producción productos apícolas ;Bierge;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;49
+ES220580001003;Producción y reproducción;Abejas;Producción productos apícolas ;Bierge;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;50
+ES220580001004;Producción y reproducción;Abejas;Producción productos apícolas ;Bierge;HUESCA;BARBASTRO;;;;Estante;No Profesional;Convencional;40
+ES220580001005;Producción y reproducción;Abejas;Producción productos apícolas ;Bierge;HUESCA;BARBASTRO;;;;Trashumante;Profesional;Convencional;300
+ES220580001006;Producción y reproducción;Abejas;Producción productos apícolas ;Bierge;HUESCA;BARBASTRO;30;741644;4682935;Trashumante;No Profesional;;25
+ES220580001007;Producción y reproducción;Abejas;Producción productos apícolas ;Bierge;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;;16
+ES220580001116;Producción y reproducción;Abejas;Mixta;Bierge;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;500
+ES220590001004;Producción y reproducción;Abejas;Mixta;Biescas;HUESCA;SABIÑÁNIGO;;;;Trashumante;Profesional;Convencional;300
+ES220600001001;Producción y reproducción;Abejas;Producción productos apícolas ;Binaced;HUESCA;MONZÓN;30;760974;4629860;Trashumante;No Profesional;;70
+ES220600001004;Producción y reproducción;Abejas;Mixta;Binaced;HUESCA;MONZÓN;;;;Trashumante;Profesional;;500
+ES220620001004;Producción y reproducción;Abejas;Producción productos apícolas ;Bisaurri;HUESCA;CASTEJÓN DE SOS;;;;Trashumante;No Profesional;;100
+ES220660001555;Producción y reproducción;Abejas;Mixta;Boltaña;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;27
+ES220720001001;Producción y reproducción;Abejas;Producción productos apícolas ;Caldearenas;HUESCA;SABIÑÁNIGO;;;;Trashumante;No Profesional;Convencional;80
+ES220720001076;Producción y reproducción;Abejas;Mixta;Caldearenas;HUESCA;SABIÑÁNIGO;;;;Trashumante;No Profesional;Convencional;30
+ES220720001185;Producción y reproducción;Abejas;Mixta;Caldearenas;HUESCA;SABIÑÁNIGO;;;;Trashumante;No Profesional;Convencional;40
+ES220740001001;Producción y reproducción;Abejas;Mixta;Campo;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;55
+ES220750001002;Producción y reproducción;Abejas;Producción productos apícolas ;Camporrélls;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;;149
+ES220750001267;Producción y reproducción;Abejas;Mixta;Camporrélls;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;125
+ES220760001001;Producción y reproducción;Abejas;Producción productos apícolas ;Canal de Berdún;HUESCA;JACA;;;;Estante;No Profesional;Convencional;50
+ES220770001002;Producción y reproducción;Abejas;Producción productos apícolas ;Candasnos;HUESCA;FRAGA;;;;Trashumante;No Profesional;Convencional;40
+ES220810001001;Producción y reproducción;Abejas;Producción productos apícolas ;Casbas de Huesca;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;149
+ES220810001002;Producción y reproducción;Abejas;Producción productos apícolas ;Casbas de Huesca;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;49
+ES220810001120;Producción y reproducción;Abejas;Producción productos apícolas ;Casbas de Huesca;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;90
+ES220810001336;Producción y reproducción;Abejas;Mixta;Casbas de Huesca;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;50
+ES220830001001;Producción y reproducción;Abejas;Mixta;Castejón de Monegros;HUESCA;BUJARALOZ;30;727379;4611967;Trashumante;Profesional;Convencional;120
+ES220830001002;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Monegros;HUESCA;BUJARALOZ;30;730031;4613780;Trashumante;No Profesional;Convencional;201
+ES220830001004;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Monegros;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;;25
+ES220830001005;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Monegros;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;;70
+ES220830001006;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Monegros;HUESCA;BUJARALOZ;;;;Trashumante;Profesional;;300
+ES220830001017;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Monegros;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;30
+ES220830001034;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Monegros;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;20
+ES220830001046;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Monegros;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;33
+ES220830001076;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Monegros;HUESCA;BUJARALOZ;;;;Trashumante;Profesional;Convencional;160
+ES220830001093;Producción y reproducción;Abejas;Mixta;Castejón de Monegros;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;240
+ES220830001262;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Monegros;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;160
+ES220840001002;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Sos;HUESCA;CASTEJÓN DE SOS;;;;Trashumante;No Profesional;;60
+ES220850001096;Producción y reproducción;Abejas;Mixta;Castelflorite;HUESCA;SARIÑENA;30;745410;4631279;Estante;No Profesional;Convencional;50
+ES220850001112;Producción y reproducción;Abejas;Producción productos apícolas ;Castelflorite;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;20
+ES220850001487;Producción y reproducción;Abejas;Producción productos apícolas ;Castelflorite;HUESCA;SARIÑENA;;;;Trashumante;Profesional;Convencional;500
+ES220860001001;Producción y reproducción;Abejas;Producción productos apícolas ;Castiello de Jaca;HUESCA;JACA;;;;Trashumante;No Profesional;;20
+ES220870001001;Producción y reproducción;Abejas;Producción productos apícolas ;Castigaleu;HUESCA;GRAUS;;;;Estante;No Profesional;;51
+ES220890001531;Producción y reproducción;Abejas;Mixta;Castillonroy;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;100
+ES220900001001;Producción y reproducción;Abejas;Producción productos apícolas ;Colungo;HUESCA;BARBASTRO;30;751801;4671727;Trashumante;No Profesional;Convencional;70
+ES220900001044;Producción y reproducción;Abejas;Producción productos apícolas ;Colungo;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;150
+ES220900001102;Producción y reproducción;Abejas;Producción productos apícolas ;Colungo;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;200
+ES220990001001;Producción y reproducción;Abejas;Producción productos apícolas ;Esplús;HUESCA;BINÉFAR;;;;Trashumante;Profesional;Convencional;150
+ES221030001001;Producción y reproducción;Abejas;Producción productos apícolas ;Estadilla;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;49
+ES221030001104;Producción y reproducción;Abejas;Producción productos apícolas ;Estadilla;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;49
+ES221050001005;Producción y reproducción;Abejas;Producción productos apícolas ;Estopiñán del Castillo;HUESCA;GRAUS;;;;Estante;No Profesional;;50
+ES221050001068;Producción y reproducción;Abejas;Producción productos apícolas ;Estopiñán del Castillo;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;750
+ES221050001521;Producción y reproducción;Abejas;Producción productos apícolas ;Estopiñán del Castillo;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;30
+ES221070001001;Producción y reproducción;Abejas;Producción productos apícolas ;Fanlo;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;;60
+ES221070001002;Producción y reproducción;Abejas;Producción productos apícolas ;Fanlo;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;120
+ES221090001001;Producción y reproducción;Abejas;Producción productos apícolas ;Fiscal;HUESCA;BOLTAÑA;;;;Trashumante;Profesional;Convencional;800
+ES221100001002;Producción y reproducción;Abejas;Producción productos apícolas ;Fonz;HUESCA;MONZÓN;;;;Trashumante;No Profesional;Convencional;20
+ES221100001177;Producción y reproducción;Abejas;Producción productos apícolas ;Fonz;HUESCA;MONZÓN;;;;Trashumante;Profesional;;500
+ES221110001001;Producción y reproducción;Abejas;Producción productos apícolas ;Foradada del Toscar;HUESCA;GRAUS;30;779753;4697523;Trashumante;No Profesional;;149
+ES221120001008;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;;;;Trashumante;Profesional;Convencional;200
+ES221120001012;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;;;;Trashumante;No Profesional;;40
+ES221120001013;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;30;781963;4603568;Trashumante;Profesional;Convencional;210
+ES221120001014;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;;;;Estante;No Profesional;Convencional;30
+ES221120001015;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;;;;Trashumante;No Profesional;Convencional;149
+ES221120001016;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;;;;Trashumante;No Profesional;Convencional;149
+ES221120001020;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;;;;Trashumante;Profesional;;200
+ES221120001074;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;;;;Trashumante;No Profesional;Convencional;50
+ES221120001095;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;;;;Trashumante;Profesional;Convencional;750
+ES221120001290;Producción y reproducción;Abejas;Polinización;Fraga;HUESCA;FRAGA;;;;Trashumante;No Profesional;Convencional;18
+ES221120001444;Producción y reproducción;Abejas;Producción productos apícolas ;Fraga;HUESCA;FRAGA;;;;Trashumante;No Profesional;Convencional;750
+ES221120001467;Producción y reproducción;Abejas;Mixta;Fraga;HUESCA;FRAGA;;;;Trashumante;No Profesional;Convencional;40
+ES221130001002;Producción y reproducción;Abejas;Producción productos apícolas ;Fueva (La);HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;;18
+ES221130001004;Producción y reproducción;Abejas;Producción productos apícolas ;Fueva (La);HUESCA;BOLTAÑA;30;772215;4687524;Trashumante;Profesional;;150
+ES221130001007;Producción y reproducción;Abejas;Producción productos apícolas ;Fueva (La);HUESCA;BOLTAÑA;;;;Estante;No Profesional;;149
+ES221130001012;Producción y reproducción;Abejas;Producción productos apícolas ;Fueva (La);HUESCA;BOLTAÑA;;;;Trashumante;Profesional;;600
+ES221130001093;Producción y reproducción;Abejas;Mixta;Fueva (La);HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;30
+ES221130001309;Producción y reproducción;Abejas;Mixta;Fueva (La);HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;25
+ES221130001310;Producción y reproducción;Abejas;Mixta;Fueva (La);HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;102
+ES221130001325;Producción y reproducción;Abejas;Producción productos apícolas ;Fueva (La);HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;20
+ES221130001326;Producción y reproducción;Abejas;Mixta;Fueva (La);HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;170
+ES221150001005;Producción y reproducción;Abejas;Producción productos apícolas ;Grado (El);HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;50
+ES221150001006;Producción y reproducción;Abejas;Producción productos apícolas ;Grado (El);HUESCA;BARBASTRO;;;;Trashumante;No Profesional;;50
+ES221150001007;Producción y reproducción;Abejas;Producción productos apícolas ;Grado (El);HUESCA;BARBASTRO;;;;Estante;No Profesional;Convencional;50
+ES221150001008;Producción y reproducción;Abejas;Producción productos apícolas ;Grado (El);HUESCA;BARBASTRO;;;;Trashumante;No Profesional;;30
+ES221150001108;Producción y reproducción;Abejas;Producción productos apícolas ;Grado (El);HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;70
+ES221150001511;Producción y reproducción;Abejas;Mixta;Grado (El);HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;28
+ES221150001549;Producción y reproducción;Abejas;Mixta;Grado (El);HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;56
+ES221160001004;Producción y reproducción;Abejas;Producción productos apícolas ;Grañén;HUESCA;GRAÑÉN;;;;Trashumante;Profesional;;480
+ES221170001001;Producción y reproducción;Abejas;Producción productos apícolas ;Graus;HUESCA;GRAUS;30;782590;4679680;Trashumante;No Profesional;Convencional;150
+ES221170001008;Producción y reproducción;Abejas;Producción productos apícolas ;Graus;HUESCA;GRAUS;;;;Trashumante;No Profesional;;16
+ES221170001010;Producción y reproducción;Abejas;Producción productos apícolas ;Graus;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;50
+ES221170001012;Producción y reproducción;Abejas;Producción productos apícolas ;Graus;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;149
+ES221170001013;Producción y reproducción;Abejas;Producción productos apícolas ;Graus;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;30
+ES221170001015;Producción y reproducción;Abejas;Producción productos apícolas ;Graus;HUESCA;GRAUS;;;;Estante;No Profesional;;149
+ES221170001016;Producción y reproducción;Abejas;Producción productos apícolas ;Graus;HUESCA;GRAUS;;;;Estante;No Profesional;;149
+ES221170001070;Producción y reproducción;Abejas;Mixta;Graus;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;500
+ES221170001297;Producción y reproducción;Abejas;Mixta;Graus;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;325
+ES221170001435;Producción y reproducción;Abejas;Mixta;Graus;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;350
+ES221190001001;Producción y reproducción;Abejas;Producción productos apícolas ;Gurrea de Gállego;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;30
+ES221220001001;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz de Jaca;HUESCA;SABIÑÁNIGO;;;;Trashumante;Profesional;Convencional;243
+ES221240001003;Producción y reproducción;Abejas;Producción productos apícolas ;Huerto;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;25
+ES221250001001;Producción y reproducción;Abejas;Producción productos apícolas ;Huesca;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;100
+ES221250001508;Producción y reproducción;Abejas;Producción productos apícolas ;Huesca;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;21
+ES221270001001;Producción y reproducción;Abejas;Producción productos apícolas ;Igriés;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;50
+ES221280001001;Producción y reproducción;Abejas;Mixta;Ilche;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;20
+ES221290001001;Producción y reproducción;Abejas;Producción productos apícolas ;Isábena;HUESCA;GRAUS;;;;Trashumante;No Profesional;;20
+ES221290001024;Producción y reproducción;Abejas;Producción productos apícolas ;Isábena;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;75
+ES221290001315;Producción y reproducción;Abejas;Mixta;Isábena;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;125
+ES221300000810;Producción y reproducción;Abejas;Otras;Jaca;HUESCA;JACA;;;;Estante;No Profesional;;50
+ES221300001006;Producción y reproducción;Abejas;Producción productos apícolas ;Jaca;HUESCA;JACA;;;;Trashumante;No Profesional;Convencional;40
+ES221300001010;Producción y reproducción;Abejas;Producción productos apícolas ;Jaca;HUESCA;JACA;30;691685;4717174;Trashumante;No Profesional;Convencional;149
+ES221300001011;Producción y reproducción;Abejas;Producción productos apícolas ;Jaca;HUESCA;JACA;30;707854;4708213;Estante;No Profesional;Convencional;25
+ES221300001013;Producción y reproducción;Abejas;Producción productos apícolas ;Jaca;HUESCA;JACA;30;695829;4720004;Trashumante;No Profesional;;25
+ES221300001014;Producción y reproducción;Abejas;Producción productos apícolas ;Jaca;HUESCA;JACA;30;701900;4712900;Trashumante;No Profesional;;149
+ES221300001017;Producción y reproducción;Abejas;Producción productos apícolas ;Jaca;HUESCA;JACA;;;;Trashumante;No Profesional;Convencional;15
+ES221300001091;Producción y reproducción;Abejas;Producción productos apícolas ;Jaca;HUESCA;JACA;;;;Trashumante;No Profesional;Convencional;48
+ES221300001227;Producción y reproducción;Abejas;Producción productos apícolas ;Jaca;HUESCA;JACA;;;;Trashumante;No Profesional;Convencional;35
+ES221300001462;Producción y reproducción;Abejas;Mixta;Jaca;HUESCA;JACA;;;;Trashumante;No Profesional;Convencional;55
+ES221310001001;Producción y reproducción;Abejas;Producción productos apícolas ;Jasa;HUESCA;JACA;30;691190;4730500;Estante;No Profesional;Convencional;60
+ES221360001001;Producción y reproducción;Abejas;Producción productos apícolas ;Lalueza;HUESCA;SARIÑENA;;;;Trashumante;Profesional;;210
+ES221360001002;Producción y reproducción;Abejas;Producción productos apícolas ;Lalueza;HUESCA;SARIÑENA;;;;Trashumante;Profesional;Convencional;250
+ES221370001003;Producción y reproducción;Abejas;Producción productos apícolas ;Lanaja;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;;20
+ES221370001023;Producción y reproducción;Abejas;Producción productos apícolas ;Lanaja;HUESCA;SARIÑENA;;;;Trashumante;Profesional;Convencional;155
+ES221370001062;Producción y reproducción;Abejas;Producción productos apícolas ;Lanaja;HUESCA;SARIÑENA;;;;Trashumante;Profesional;Convencional;300
+ES221370001353;Producción y reproducción;Abejas;Producción productos apícolas ;Lanaja;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;149
+ES221370001469;Producción y reproducción;Abejas;Producción productos apícolas ;Lanaja;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;175
+ES221390001337;Producción y reproducción;Abejas;Producción productos apícolas ;Laperdiguera;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;25
+ES221410001285;Producción y reproducción;Abejas;Producción productos apícolas ;Lascellas-Ponzano;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;25
+ES221420001300;Producción y reproducción;Abejas;Producción productos apícolas ;Lascuarre;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;150
+ES221420001556;Producción y reproducción;Abejas;Mixta;Lascuarre;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;150
+ES221430001002;Producción y reproducción;Abejas;Producción productos apícolas ;Laspaúles;HUESCA;CASTEJÓN DE SOS;;;;Trashumante;No Profesional;Convencional;25
+ES221430001004;Producción y reproducción;Abejas;Producción productos apícolas ;Laspaúles;HUESCA;CASTEJÓN DE SOS;;;;Trashumante;No Profesional;;100
+ES221430001005;Producción y reproducción;Abejas;Producción productos apícolas ;Laspaúles;HUESCA;CASTEJÓN DE SOS;;;;Trashumante;Profesional;;150
+ES221440001001;Producción y reproducción;Abejas;Producción productos apícolas ;Laspuña;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;26
+ES221440001002;Producción y reproducción;Abejas;Producción productos apícolas ;Laspuña;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;;20
+ES221440001036;Producción y reproducción;Abejas;Producción productos apícolas ;Laspuña;HUESCA;BOLTAÑA;;;;Estante;No Profesional;Convencional;30
+ES221500001002;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;30
+ES221500001007;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;20
+ES221500001008;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;30;724474;4675456;Trashumante;Profesional;Convencional;600
+ES221500001009;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;30;720600;4666991;Trashumante;Profesional;;375
+ES221500001010;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;30;721055;4665358;Trashumante;Profesional;;375
+ES221500001011;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;30;720861;4665656;Trashumante;Profesional;;375
+ES221500001012;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;30;720812;4668644;Trashumante;Profesional;;375
+ES221500001014;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;;;;Estante;No Profesional;;30
+ES221500001017;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;;;;Trashumante;No Profesional;;20
+ES221500001018;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;;;;Trashumante;No Profesional;;149
+ES221500001197;Producción y reproducción;Abejas;Mixta;Loporzano;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;300
+ES221500001316;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;25
+ES221500001386;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;45
+ES221500001407;Producción y reproducción;Abejas;Mixta;Loporzano;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;50
+ES221500001441;Producción y reproducción;Abejas;Producción productos apícolas ;Loporzano;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;30
+ES221500001513;Producción y reproducción;Abejas;Mixta;Loporzano;HUESCA;HUESCA;;;;Trashumante;Profesional;Convencional;200
+ES221510001001;Producción y reproducción;Abejas;Producción productos apícolas ;Loscorrales;HUESCA;AYERBE;;;;Trashumante;No Profesional;;120
+ES221570001002;Producción y reproducción;Abejas;Producción productos apícolas ;Montanuy;HUESCA;CASTEJÓN DE SOS;;;;Trashumante;No Profesional;Convencional;60
+ES221580001003;Producción y reproducción;Abejas;Producción productos apícolas ;Monzón;HUESCA;MONZÓN;;;;Trashumante;No Profesional;Convencional;20
+ES221580001004;Producción y reproducción;Abejas;Producción productos apícolas ;Monzón;HUESCA;MONZÓN;;;;Trashumante;Profesional;Convencional;500
+ES221580001008;Producción y reproducción;Abejas;Producción productos apícolas ;Monzón;HUESCA;MONZÓN;;;;Trashumante;No Profesional;;20
+ES221580001010;Producción y reproducción;Abejas;Producción productos apícolas ;Monzón;HUESCA;MONZÓN;;;;Trashumante;No Profesional;;20
+ES221600001006;Producción y reproducción;Abejas;Producción productos apícolas ;Naval;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;38
+ES221600001075;Producción y reproducción;Abejas;Producción productos apícolas ;Naval;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;150
+ES221630001002;Producción y reproducción;Abejas;Producción productos apícolas ;Nueno;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;50
+ES221630001003;Producción y reproducción;Abejas;Mixta;Nueno;HUESCA;HUESCA;;;;Trashumante;No Profesional;;80
+ES221630001005;Producción y reproducción;Abejas;Producción productos apícolas ;Nueno;HUESCA;HUESCA;30;712977;4680080;Trashumante;No Profesional;Convencional;16
+ES221650001002;Producción y reproducción;Abejas;Producción productos apícolas ;Ontiñena;HUESCA;FRAGA;;;;Trashumante;No Profesional;;25
+ES221650001003;Producción y reproducción;Abejas;Producción productos apícolas ;Ontiñena;HUESCA;FRAGA;;;;Trashumante;No Profesional;;100
+ES221670001001;Producción y reproducción;Abejas;Producción productos apícolas ;Osso de Cinca;HUESCA;FRAGA;;;;Trashumante;No Profesional;Convencional;50
+ES221720001001;Producción y reproducción;Abejas;Producción productos apícolas ;Peñalba;HUESCA;BUJARALOZ;;;;Trashumante;Profesional;;400
+ES221720001002;Producción y reproducción;Abejas;Producción productos apícolas ;Peñalba;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;25
+ES221720001264;Producción y reproducción;Abejas;Mixta;Peñalba;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;20
+ES221720001265;Producción y reproducción;Abejas;Producción productos apícolas ;Peñalba;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;57
+ES221720001288;Producción y reproducción;Abejas;Mixta;Peñalba;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;95
+ES221730001002;Producción y reproducción;Abejas;Producción productos apícolas ;Peñas de Riglos (Las);HUESCA;AYERBE;30;692333;4700549;Trashumante;No Profesional;Convencional;25
+ES221730001005;Producción y reproducción;Abejas;Mixta;Peñas de Riglos (Las);HUESCA;AYERBE;;;;Trashumante;No Profesional;;25
+ES221730001013;Producción y reproducción;Abejas;Producción productos apícolas ;Peñas de Riglos (Las);HUESCA;AYERBE;;;;Estante;No Profesional;Convencional;16
+ES221730001095;Producción y reproducción;Abejas;Producción productos apícolas ;Peñas de Riglos (Las);HUESCA;AYERBE;;;;Trashumante;No Profesional;Convencional;30
+ES221730001522;Producción y reproducción;Abejas;Producción productos apícolas ;Peñas de Riglos (Las);HUESCA;AYERBE;;;;Estante;No Profesional;Convencional;92
+ES221740001001;Producción y reproducción;Abejas;Producción productos apícolas ;Peralta de Alcofea;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;30
+ES221740001013;Producción y reproducción;Abejas;Producción productos apícolas ;Peralta de Alcofea;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;35
+ES221750001002;Producción y reproducción;Abejas;Producción productos apícolas ;Peralta de Calasanz;HUESCA;BINÉFAR;;;;Trashumante;No Profesional;;149
+ES221750001004;Producción y reproducción;Abejas;Producción productos apícolas ;Peralta de Calasanz;HUESCA;BINÉFAR;;;;Trashumante;Profesional;Convencional;500
+ES221750001005;Producción y reproducción;Abejas;Producción productos apícolas ;Peralta de Calasanz;HUESCA;BINÉFAR;;;;Trashumante;No Profesional;;50
+ES221750001006;Producción y reproducción;Abejas;Producción productos apícolas ;Peralta de Calasanz;HUESCA;BINÉFAR;;;;Trashumante;Profesional;;250
+ES221760001002;Producción y reproducción;Abejas;Producción productos apícolas ;Peraltilla;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;;149
+ES221760001004;Producción y reproducción;Abejas;Producción productos apícolas ;Peraltilla;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;;50
+ES221760001141;Producción y reproducción;Abejas;Producción productos apícolas ;Peraltilla;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;Convencional;60
+ES221780001001;Producción y reproducción;Abejas;Producción productos apícolas ;Pertusa;HUESCA;HUESCA;30;738449;4653162;Trashumante;No Profesional;;16
+ES221820001001;Producción y reproducción;Abejas;Producción productos apícolas ;Plan;HUESCA;BOLTAÑA;30;774620;4719825;Trashumante;Profesional;;500
+ES221870001002;Producción y reproducción;Abejas;Producción productos apícolas ;Puebla de Castro (La);HUESCA;GRAUS;;;;Trashumante;No Profesional;;149
+ES221870001003;Producción y reproducción;Abejas;Producción productos apícolas ;Puebla de Castro (La);HUESCA;GRAUS;;;;Trashumante;No Profesional;;149
+ES221880001001;Producción y reproducción;Abejas;Producción productos apícolas ;Puente de Montañana;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;100
+ES221890001002;Producción y reproducción;Abejas;Producción productos apícolas ;Puértolas;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;35
+ES221890001006;Producción y reproducción;Abejas;Producción productos apícolas ;Puértolas;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;149
+ES221970001002;Producción y reproducción;Abejas;Producción productos apícolas ;Robres;HUESCA;GRAÑÉN;;;;Trashumante;No Profesional;Convencional;30
+ES221970001003;Producción y reproducción;Abejas;Producción productos apícolas ;Robres;HUESCA;GRAÑÉN;;;;Trashumante;No Profesional;Convencional;20
+ES221990001002;Producción y reproducción;Abejas;Producción productos apícolas ;Sabiñánigo;HUESCA;SABIÑÁNIGO;;;;Estante;No Profesional;Convencional;20
+ES221990001006;Producción y reproducción;Abejas;Producción productos apícolas ;Sabiñánigo;HUESCA;SABIÑÁNIGO;;;;Trashumante;No Profesional;Convencional;114
+ES221990001106;Producción y reproducción;Abejas;Producción productos apícolas ;Sabiñánigo;HUESCA;SABIÑÁNIGO;;;;Trashumante;No Profesional;Convencional;110
+ES221990001204;Producción y reproducción;Abejas;Producción productos apícolas ;Sabiñánigo;HUESCA;SABIÑÁNIGO;;;;Trashumante;No Profesional;Convencional;20
+ES221990001205;Producción y reproducción;Abejas;Producción productos apícolas ;Sabiñánigo;HUESCA;SABIÑÁNIGO;;;;Trashumante;No Profesional;;30
+ES221990001438;Producción y reproducción;Abejas;Mixta;Sabiñánigo;HUESCA;SABIÑÁNIGO;;;;Trashumante;No Profesional;Convencional;30
+ES222000001001;Producción y reproducción;Abejas;Producción productos apícolas ;Sahún;HUESCA;CASTEJÓN DE SOS;;;;Trashumante;No Profesional;Convencional;50
+ES222050001001;Producción y reproducción;Abejas;Producción productos apícolas ;San Esteban de Litera;HUESCA;BINÉFAR;;;;Trashumante;Profesional;Convencional;400
+ES222050001004;Producción y reproducción;Abejas;Producción productos apícolas ;San Esteban de Litera;HUESCA;BINÉFAR;;;;Trashumante;No Profesional;Convencional;50
+ES222050001005;Producción y reproducción;Abejas;Producción productos apícolas ;San Esteban de Litera;HUESCA;BINÉFAR;;;;Trashumante;No Profesional;Convencional;50
+ES222050001007;Producción y reproducción;Abejas;Producción productos apícolas ;San Esteban de Litera;HUESCA;BINÉFAR;;;;Trashumante;Profesional;Convencional;400
+ES222050001008;Producción y reproducción;Abejas;Producción productos apícolas ;San Esteban de Litera;HUESCA;BINÉFAR;;;;Trashumante;Profesional;;400
+ES222050001010;Producción y reproducción;Abejas;Producción productos apícolas ;San Esteban de Litera;HUESCA;BINÉFAR;;;;Trashumante;No Profesional;;53
+ES222050001058;Producción y reproducción;Abejas;Producción productos apícolas ;San Esteban de Litera;HUESCA;BINÉFAR;30;776982;4642383;Trashumante;No Profesional;Convencional;15
+ES222050001175;Producción y reproducción;Abejas;Mixta;San Esteban de Litera;HUESCA;BINÉFAR;;;;Trashumante;No Profesional;Convencional;155
+ES222050001253;Producción y reproducción;Abejas;Producción productos apícolas ;San Esteban de Litera;HUESCA;BINÉFAR;;;;Trashumante;No Profesional;Convencional;50
+ES222050001311;Producción y reproducción;Abejas;Producción productos apícolas ;San Esteban de Litera;HUESCA;BINÉFAR;;;;Trashumante;Profesional;Convencional;95
+ES222070001001;Producción y reproducción;Abejas;Producción productos apícolas ;San Juan de Plan;HUESCA;BOLTAÑA;;;;Trashumante;Profesional;Convencional;600
+ES222120001532;Producción y reproducción;Abejas;Mixta;Santaliestra y San Quílez;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;152
+ES222130001001;Producción y reproducción;Abejas;Producción productos apícolas ;Sariñena;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;100
+ES222130001053;Producción y reproducción;Abejas;Mixta;Sariñena;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;340
+ES222200001001;Producción y reproducción;Abejas;Producción productos apícolas ;Sesa;HUESCA;HUESCA;;;;Trashumante;No Profesional;;34
+ES222200001086;Producción y reproducción;Abejas;Producción productos apícolas ;Sesa;HUESCA;HUESCA;30;729267;4653478;Trashumante;No Profesional;Convencional;50
+ES222200001505;Producción y reproducción;Abejas;Mixta;Sesa;HUESCA;HUESCA;;;;Trashumante;No Profesional;Convencional;55
+ES222250001001;Producción y reproducción;Abejas;Producción productos apícolas ;Tamarite de Litera;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;150
+ES222250001002;Producción y reproducción;Abejas;Producción productos apícolas ;Tamarite de Litera;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;Convencional;100
+ES222250001004;Producción y reproducción;Abejas;Producción productos apícolas ;Tamarite de Litera;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;;20
+ES222250001005;Producción y reproducción;Abejas;Producción productos apícolas ;Tamarite de Litera;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;;149
+ES222250001006;Producción y reproducción;Abejas;Producción productos apícolas ;Tamarite de Litera;HUESCA;TAMARITE DE LITERA;;;;Trashumante;No Profesional;;20
+ES222260001001;Producción y reproducción;Abejas;Producción productos apícolas ;Tardienta;HUESCA;GRAÑÉN;;;;Trashumante;No Profesional;Convencional;150
+ES222260001002;Producción y reproducción;Abejas;Producción productos apícolas ;Tardienta;HUESCA;GRAÑÉN;30;701270;4652102;Trashumante;No Profesional;;149
+ES222260001004;Producción y reproducción;Abejas;Producción productos apícolas ;Tardienta;HUESCA;GRAÑÉN;;;;Trashumante;No Profesional;;50
+ES222260001036;Producción y reproducción;Abejas;Producción productos apícolas ;Tardienta;HUESCA;GRAÑÉN;;;;Trashumante;No Profesional;Convencional;450
+ES222260001060;Producción y reproducción;Abejas;Producción productos apícolas ;Tardienta;HUESCA;GRAÑÉN;;;;Trashumante;No Profesional;Convencional;24
+ES222260001557;Producción y reproducción;Abejas;Mixta;Tardienta;HUESCA;GRAÑÉN;;;;Trashumante;No Profesional;Convencional;24
+ES222290001001;Producción y reproducción;Abejas;Producción productos apícolas ;Tolva;HUESCA;GRAUS;30;793867;4672576;Trashumante;No Profesional;Convencional;150
+ES222290001002;Producción y reproducción;Abejas;Producción productos apícolas ;Tolva;HUESCA;GRAUS;;;;Estante;No Profesional;Convencional;40
+ES222290001003;Producción y reproducción;Abejas;Producción productos apícolas ;Tolva;HUESCA;GRAUS;;;;Trashumante;No Profesional;;149
+ES222290001004;Producción y reproducción;Abejas;Producción productos apícolas ;Tolva;HUESCA;GRAUS;;;;Trashumante;Profesional;;150
+ES222330001001;Producción y reproducción;Abejas;Producción productos apícolas ;Torre la Ribera;HUESCA;GRAUS;;;;Trashumante;Profesional;Convencional;200
+ES222340001317;Producción y reproducción;Abejas;Producción productos apícolas ;Torrente de Cinca;HUESCA;FRAGA;;;;Trashumante;No Profesional;Convencional;450
+ES222420001069;Producción y reproducción;Abejas;Mixta;Valfarta;HUESCA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;30
+ES222440001001;Producción y reproducción;Abejas;Producción productos apícolas ;Valle de Lierp;HUESCA;GRAUS;;;;Trashumante;Profesional;Convencional;300
+ES222450001001;Producción y reproducción;Abejas;Producción productos apícolas ;Velilla de Cinca;HUESCA;FRAGA;;;;Trashumante;No Profesional;;149
+ES222470001008;Producción y reproducción;Abejas;Mixta;Viacamp y Litera;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;74
+ES222470001062;Producción y reproducción;Abejas;Producción productos apícolas ;Viacamp y Litera;HUESCA;GRAUS;;;;Trashumante;Profesional;Convencional;480
+ES222470001063;Producción y reproducción;Abejas;Mixta;Viacamp y Litera;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;500
+ES222470001099;Producción y reproducción;Abejas;Mixta;Viacamp y Litera;HUESCA;GRAUS;;;;Trashumante;No Profesional;Convencional;600
+ES222470001338;Producción y reproducción;Abejas;Producción productos apícolas ;Viacamp y Litera;HUESCA;GRAUS;;;;Trashumante;Profesional;Convencional;425
+ES222510001021;Producción y reproducción;Abejas;Mixta;Villanueva de Sigena;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;90
+ES222510001507;Producción y reproducción;Abejas;Mixta;Villanueva de Sigena;HUESCA;SARIÑENA;;;;Trashumante;No Profesional;Convencional;165
+ES222540001002;Producción y reproducción;Abejas;Producción productos apícolas ;Zaidín;HUESCA;FRAGA;;;;Trashumante;No Profesional;;50
+ES229010001002;Producción y reproducción;Abejas;Producción productos apícolas ;Valle de Hecho;HUESCA;JACA;;;;Trashumante;No Profesional;Convencional;10
+ES229010001008;Producción y reproducción;Abejas;Producción productos apícolas ;Valle de Hecho;HUESCA;JACA;;;;Estante;No Profesional;;25
+ES229010001037;Producción y reproducción;Abejas;Producción productos apícolas ;Valle de Hecho;HUESCA;JACA;;;;Trashumante;No Profesional;;149
+ES229020001001;Producción y reproducción;Abejas;Producción productos apícolas ;Puente la Reina de Jaca;HUESCA;JACA;;;;Estante;No Profesional;;20
+ES229020001080;Producción y reproducción;Abejas;Producción productos apícolas ;Puente la Reina de Jaca;HUESCA;JACA;;;;Trashumante;No Profesional;Convencional;30
+ES229030001027;Producción y reproducción;Abejas;Mixta;San Miguel del Cinca;HUESCA;MONZÓN;;;;Trashumante;No Profesional;Convencional;20
+ES229040001001;Producción y reproducción;Abejas;Producción productos apícolas ;Sotonera (La);HUESCA;AYERBE;;;;Trashumante;Profesional;Convencional;400
+ES229040001002;Producción y reproducción;Abejas;Mixta;Sotonera (La);HUESCA;AYERBE;30;709826;4682626;Trashumante;Profesional;Convencional;600
+ES229040001003;Producción y reproducción;Abejas;Producción productos apícolas ;Sotonera (La);HUESCA;AYERBE;;;;Trashumante;No Profesional;;25
+ES229040001005;Producción y reproducción;Abejas;Producción productos apícolas ;Sotonera (La);HUESCA;AYERBE;;;;Trashumante;No Profesional;Convencional;25
+ES229040001028;Producción y reproducción;Abejas;Mixta;Sotonera (La);HUESCA;AYERBE;30;701943;4683760;Trashumante;No Profesional;Convencional;215
+ES229040001248;Producción y reproducción;Abejas;Mixta;Sotonera (La);HUESCA;AYERBE;;;;Trashumante;No Profesional;Convencional;97
+ES229040001516;Producción y reproducción;Abejas;Mixta;Sotonera (La);HUESCA;AYERBE;;;;Trashumante;No Profesional;Convencional;80
+ES229070001006;Producción y reproducción;Abejas;Producción productos apícolas ;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;20
+ES229070001008;Producción y reproducción;Abejas;Producción productos apícolas ;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;60
+ES229070001009;Producción y reproducción;Abejas;Producción productos apícolas ;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;Profesional;Convencional;600
+ES229070001010;Producción y reproducción;Abejas;Producción productos apícolas ;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Estante;No Profesional;Convencional;50
+ES229070001012;Producción y reproducción;Abejas;Producción productos apícolas ;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;;25
+ES229070001022;Producción y reproducción;Abejas;Mixta;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;55
+ES229070001041;Producción y reproducción;Abejas;Mixta;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;50
+ES229070001052;Producción y reproducción;Abejas;Mixta;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;40
+ES229070001278;Producción y reproducción;Abejas;Mixta;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;46
+ES229070001343;Producción y reproducción;Abejas;Mixta;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;25
+ES229070001362;Producción y reproducción;Abejas;Producción productos apícolas ;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;35
+ES229070001388;Producción y reproducción;Abejas;Producción productos apícolas ;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;100
+ES229070001424;Producción y reproducción;Abejas;Producción productos apícolas ;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;20
+ES229070001544;Producción y reproducción;Abejas;Producción productos apícolas ;Aínsa-Sobrarbe;HUESCA;BOLTAÑA;;;;Trashumante;No Profesional;Convencional;25
+ES229080001002;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz y Costean;HUESCA;BARBASTRO;;;;Trashumante;No Profesional;;149
+ES229080001136;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz y Costean;HUESCA;BARBASTRO;;;;Trashumante;Profesional;Convencional;650
+ES440030011001;Producción y reproducción;Abejas;Mixta;Aguatón;TERUEL;CELLA;30;649846;4501647;Estante;No Profesional;Convencional;50
+ES440040000005;Producción y reproducción;Abejas;Producción productos apícolas ;Aguaviva;TERUEL;ALCORISA;30;734563;4523251;Trashumante;Profesional;Convencional;200
+ES440040000047;Producción y reproducción;Abejas;Mixta;Aguaviva;TERUEL;ALCORISA;30;737278;4520697;Trashumante;No Profesional;Convencional;80
+ES440040011004;Producción y reproducción;Abejas;Producción productos apícolas ;Aguaviva;TERUEL;ALCORISA;30;735527;4520636;Trashumante;No Profesional;Convencional;100
+ES440050000801;Producción y reproducción;Abejas;Producción productos apícolas ;Aguilar del Alfambra;TERUEL;ALFAMBRA;30;684747;4496476;Trashumante;No Profesional;Convencional;140
+ES440060011001;Producción y reproducción;Abejas;Producción productos apícolas ;Alacón;TERUEL;ANDORRA;30;692107;4546763;Trashumante;No Profesional;Convencional;20
+ES440080000811;Producción y reproducción;Abejas;Producción productos apícolas ;Albalate del Arzobispo;TERUEL;HÍJAR;30;710340;4554044;Estante;No Profesional;Convencional;75
+ES440080011003;Producción y reproducción;Abejas;Producción productos apícolas ;Albalate del Arzobispo;TERUEL;HÍJAR;30;700145;4553960;Trashumante;Profesional;Convencional;300
+ES440080011004;Producción y reproducción;Abejas;Producción productos apícolas ;Albalate del Arzobispo;TERUEL;HÍJAR;30;707135;4554416;Trashumante;No Profesional;Convencional;75
+ES440080011009;Producción y reproducción;Abejas;Producción productos apícolas ;Albalate del Arzobispo;TERUEL;HÍJAR;30;699793;4553942;Trashumante;No Profesional;Convencional;50
+ES440080011010;Producción y reproducción;Abejas;Producción productos apícolas ;Albalate del Arzobispo;TERUEL;HÍJAR;30;706984;4557472;Trashumante;Profesional;Convencional;350
+ES440080011011;Producción y reproducción;Abejas;Producción productos apícolas ;Albalate del Arzobispo;TERUEL;HÍJAR;30;711307;4551016;Trashumante;No Profesional;Convencional;20
+ES440080011012;Producción y reproducción;Abejas;Producción productos apícolas ;Albalate del Arzobispo;TERUEL;HÍJAR;30;707496;4549119;Trashumante;No Profesional;Convencional;20
+ES440090000038;Producción y reproducción;Abejas;Producción productos apícolas ;Albarracín;TERUEL;ALBARRACÍN;30;628760;4473199;Estante;Profesional;Convencional;280
+ES440090000804;Producción y reproducción;Abejas;Producción productos apícolas ;Albarracín;TERUEL;ALBARRACÍN;30;630844;4479807;Trashumante;Profesional;Convencional;150
+ES440090000808;Producción y reproducción;Abejas;Producción productos apícolas ;Albarracín;TERUEL;ALBARRACÍN;30;633708;4472659;Estante;No Profesional;Convencional;24
+ES440090011001;Producción y reproducción;Abejas;Producción productos apícolas ;Albarracín;TERUEL;ALBARRACÍN;30;639736;4457427;Trashumante;No Profesional;Convencional;30
+ES440100000803;Producción y reproducción;Abejas;Producción productos apícolas ;Albentosa;TERUEL;MORA DE RUBIELOS;30;692386;4436651;Trashumante;Profesional;Convencional;100
+ES440100000804;Producción y reproducción;Abejas;Producción productos apícolas ;Albentosa;TERUEL;MORA DE RUBIELOS;30;693288;4434867;Trashumante;Profesional;Convencional;300
+ES440100011001;Producción y reproducción;Abejas;Producción productos apícolas ;Albentosa;TERUEL;MORA DE RUBIELOS;30;690477;4436249;Estante;No Profesional;Convencional;30
+ES440100011002;Producción y reproducción;Abejas;Producción productos apícolas ;Albentosa;TERUEL;MORA DE RUBIELOS;30;689546;4440994;Trashumante;No Profesional;Convencional;70
+ES440110011003;Producción y reproducción;Abejas;Producción productos apícolas ;Alcaine;TERUEL;MUNIESA;30;693863;4535559;Trashumante;No Profesional;Convencional;70
+ES440110011004;Producción y reproducción;Abejas;Producción productos apícolas ;Alcaine;TERUEL;MUNIESA;30;691926;4539186;Estante;No Profesional;Convencional;20
+ES440130000904;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;745693;4555552;Trashumante;Profesional;Convencional;350
+ES440130000906;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;734441;4553387;Trashumante;Profesional;Convencional;160
+ES440130000909;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;742842;4544186;Trashumante;Profesional;Convencional;270
+ES440130000913;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;729581;4553628;Trashumante;No Profesional;Convencional;45
+ES440130000914;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;736989;4547567;Trashumante;No Profesional;Convencional;38
+ES440130000915;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;740487;4551079;Trashumante;Profesional;Convencional;430
+ES440130000918;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;744877;4549237;Trashumante;No Profesional;;120
+ES440130011008;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;744611;4546869;Trashumante;No Profesional;Convencional;100
+ES440130011009;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;740316;4544804;Trashumante;No Profesional;Convencional;60
+ES440130011012;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;731954;4554016;Trashumante;No Profesional;;50
+ES440130011014;Producción y reproducción;Abejas;Producción productos apícolas ;Alcañiz;TERUEL;ALCAÑIZ;30;738500;4554770;Trashumante;No Profesional;Convencional;70
+ES440140000053;Producción y reproducción;Abejas;Producción productos apícolas ;Alcorisa;TERUEL;ALCORISA;30;718413;4531850;Estante;No Profesional;Convencional;20
+ES440140000805;Producción y reproducción;Abejas;Producción productos apícolas ;Alcorisa;TERUEL;ALCORISA;30;717297;4532458;Trashumante;Profesional;;200
+ES440140011007;Producción y reproducción;Abejas;Producción productos apícolas ;Alcorisa;TERUEL;ALCORISA;30;721497;4532852;Trashumante;No Profesional;Convencional;50
+ES440170000011;Producción y reproducción;Abejas;Producción productos apícolas ;Aliaga;TERUEL;MONTALBÁN;30;693922;4511583;Trashumante;No Profesional;;50
+ES440170000015;Producción y reproducción;Abejas;Producción productos apícolas ;Aliaga;TERUEL;MONTALBÁN;30;695109;4500784;Trashumante;No Profesional;Convencional;30
+ES440170011001;Producción y reproducción;Abejas;Producción productos apícolas ;Aliaga;TERUEL;MONTALBÁN;30;696725;4511333;Trashumante;No Profesional;Convencional;50
+ES440170011002;Producción y reproducción;Abejas;Producción productos apícolas ;Aliaga;TERUEL;MONTALBÁN;30;694660;4513900;Trashumante;No Profesional;Convencional;30
+ES440170011003;Producción y reproducción;Abejas;Producción productos apícolas ;Aliaga;TERUEL;MONTALBÁN;30;695941;4513803;Trashumante;No Profesional;Convencional;450
+ES440180000001;Producción y reproducción;Abejas;Producción productos apícolas ;Almohaja;TERUEL;CELLA;30;631237;4494929;Trashumante;No Profesional;Convencional;20
+ES440220000801;Producción y reproducción;Abejas;Producción productos apícolas ;Alloza;TERUEL;ANDORRA;30;706894;4535588;Trashumante;No Profesional;Convencional;50
+ES440220000806;Producción y reproducción;Abejas;Producción productos apícolas ;Alloza;TERUEL;ANDORRA;30;707572;4535927;Trashumante;No Profesional;Convencional;30
+ES440220011001;Producción y reproducción;Abejas;Producción productos apícolas ;Alloza;TERUEL;ANDORRA;30;707669;4538216;Trashumante;No Profesional;Convencional;25
+ES440220011005;Producción y reproducción;Abejas;Producción productos apícolas ;Alloza;TERUEL;ANDORRA;30;707275;4536942;Trashumante;No Profesional;Convencional;100
+ES440220011008;Producción y reproducción;Abejas;Producción productos apícolas ;Alloza;TERUEL;ANDORRA;30;707223;4534156;Trashumante;No Profesional;Convencional;140
+ES440250000055;Producción y reproducción;Abejas;Producción productos apícolas ;Andorra;TERUEL;ANDORRA;30;719673;4538517;Trashumante;No Profesional;Convencional;80
+ES440250000056;Producción y reproducción;Abejas;Producción productos apícolas ;Andorra;TERUEL;ANDORRA;30;715191;4544897;Trashumante;No Profesional;Convencional;25
+ES440250000803;Producción y reproducción;Abejas;Mixta;Andorra;TERUEL;ANDORRA;30;719521;4538142;Trashumante;Profesional;Convencional;162
+ES440250011005;Producción y reproducción;Abejas;Producción productos apícolas ;Andorra;TERUEL;ANDORRA;30;717982;4545423;Trashumante;No Profesional;Convencional;25
+ES440250011006;Producción y reproducción;Abejas;Producción productos apícolas ;Andorra;TERUEL;ANDORRA;30;715749;4545319;Trashumante;No Profesional;Convencional;40
+ES440250011011;Producción y reproducción;Abejas;Producción productos apícolas ;Andorra;TERUEL;ANDORRA;30;717718;4543495;Trashumante;Profesional;Convencional;800
+ES440250011014;Producción y reproducción;Abejas;Producción productos apícolas ;Andorra;TERUEL;ANDORRA;30;721708;4546320;Trashumante;No Profesional;Convencional;400
+ES440250011016;Producción y reproducción;Abejas;Producción productos apícolas ;Andorra;TERUEL;ANDORRA;30;713838;4548268;Trashumante;No Profesional;Convencional;30
+ES440250011017;Producción y reproducción;Abejas;Producción productos apícolas ;Andorra;TERUEL;ANDORRA;30;716651;4537010;Trashumante;No Profesional;Convencional;220
+ES440260011001;Producción y reproducción;Abejas;Producción productos apícolas ;Arcos de las Salinas;TERUEL;MORA DE RUBIELOS;30;664850;4431225;Estante;No Profesional;Convencional;40
+ES440260011003;Producción y reproducción;Abejas;Producción productos apícolas ;Arcos de las Salinas;TERUEL;MORA DE RUBIELOS;30;664374;4428633;Trashumante;No Profesional;Convencional;30
+ES440260011004;Producción y reproducción;Abejas;Producción productos apícolas ;Arcos de las Salinas;TERUEL;MORA DE RUBIELOS;30;666370;4429614;Trashumante;No Profesional;Convencional;30
+ES440260011005;Producción y reproducción;Abejas;Producción productos apícolas ;Arcos de las Salinas;TERUEL;MORA DE RUBIELOS;30;665820;4431842;Estante;No Profesional;Convencional;30
+ES440290000002;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;704085;4549842;Trashumante;No Profesional;Convencional;400
+ES440290000004;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;702751;4550291;Trashumante;No Profesional;Convencional;90
+ES440290000010;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;702591;4547691;Trashumante;No Profesional;Convencional;102
+ES440290000016;Producción y reproducción;Abejas;Otras;Ariño;TERUEL;ANDORRA;30;696111;4550407;Trashumante;Profesional;Convencional;1000
+ES440290000018;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;701135;4545746;Trashumante;No Profesional;Convencional;70
+ES440290000022;Producción y reproducción;Abejas;Mixta;Ariño;TERUEL;ANDORRA;30;702873;4547177;Trashumante;No Profesional;Convencional;30
+ES440290000800;Producción y reproducción;Abejas;Mixta;Ariño;TERUEL;ANDORRA;30;762069;4549735;Estante;No Profesional;Convencional;100
+ES440290000883;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;704534;4549215;Trashumante;Profesional;Convencional;300
+ES440290000886;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;698971;4548418;Trashumante;Profesional;Convencional;300
+ES440290000888;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;694787;4550590;Trashumante;No Profesional;Convencional;40
+ES440290011002;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;699652;4550392;Trashumante;No Profesional;Convencional;150
+ES440290011004;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;702945;4549690;Trashumante;Profesional;Convencional;600
+ES440290011005;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;699760;4550339;Trashumante;Profesional;Convencional;250
+ES440290011007;Producción y reproducción;Abejas;Producción productos apícolas ;Ariño;TERUEL;ANDORRA;30;704153;4541709;Trashumante;Profesional;Convencional;300
+ES440330000801;Producción y reproducción;Abejas;Mixta;Báguena;TERUEL;CALAMOCHA;;;;Trashumante;No Profesional;Convencional;160
+ES440330011001;Producción y reproducción;Abejas;Producción productos apícolas ;Báguena;TERUEL;CALAMOCHA;30;634612;4542064;Trashumante;Profesional;Convencional;700
+ES440380011002;Producción y reproducción;Abejas;Producción productos apícolas ;Belmonte de San José;TERUEL;ALCAÑIZ;30;748245;4527694;Trashumante;No Profesional;Convencional;80
+ES440400000802;Producción y reproducción;Abejas;Producción productos apícolas ;Berge;TERUEL;ALCORISA;30;715453;4525841;Trashumante;No Profesional;Convencional;30
+ES440400011001;Producción y reproducción;Abejas;Producción productos apícolas ;Berge;TERUEL;ALCORISA;30;716058;4526316;Estante;No Profesional;;20
+ES440400011002;Producción y reproducción;Abejas;Producción productos apícolas ;Berge;TERUEL;ALCORISA;30;719936;4526564;Trashumante;No Profesional;Convencional;100
+ES440410011001;Producción y reproducción;Abejas;Producción productos apícolas ;Bezas;TERUEL;ALBARRACÍN;30;642264;4464803;Trashumante;No Profesional;Convencional;50
+ES440420000803;Producción y reproducción;Abejas;Producción productos apícolas ;Blancas;TERUEL;MONREAL DEL CAMPO;30;628108;4521300;Trashumante;No Profesional;Convencional;19
+ES440430000010;Producción y reproducción;Abejas;Producción productos apícolas ;Blesa;TERUEL;MUNIESA;30;677527;4548730;Trashumante;Profesional;Convencional;170
+ES440440000023;Producción y reproducción;Abejas;Producción productos apícolas ;Bordón;TERUEL;ALCORISA;30;727648;4505895;Trashumante;No Profesional;Convencional;69
+ES440440000800;Producción y reproducción;Abejas;Producción productos apícolas ;Bordón;TERUEL;ALCORISA;30;724689;4508509;Trashumante;Profesional;Convencional;600
+ES440480011001;Producción y reproducción;Abejas;Producción productos apícolas ;Cabra de Mora;TERUEL;MORA DE RUBIELOS;30;684452;4462745;Trashumante;No Profesional;Convencional;30
+ES440480011002;Producción y reproducción;Abejas;Producción productos apícolas ;Cabra de Mora;TERUEL;MORA DE RUBIELOS;30;675908;4428011;Trashumante;Profesional;Convencional;150
+ES440480011003;Producción y reproducción;Abejas;Producción productos apícolas ;Cabra de Mora;TERUEL;MORA DE RUBIELOS;30;685025;4461730;Trashumante;No Profesional;Convencional;20
+ES440500000245;Producción y reproducción;Abejas;Producción productos apícolas ;Calamocha;TERUEL;CALAMOCHA;30;636730;4530884;Estante;No Profesional;Convencional;60
+ES440500000819;Producción y reproducción;Abejas;Producción productos apícolas ;Calamocha;TERUEL;CALAMOCHA;30;638949;4532538;Estante;No Profesional;Convencional;30
+ES440500000824;Producción y reproducción;Abejas;Producción productos apícolas ;Calamocha;TERUEL;CALAMOCHA;30;646760;4535853;Trashumante;Profesional;;160
+ES440510000906;Producción y reproducción;Abejas;Producción productos apícolas ;Calanda;TERUEL;ALCAÑIZ;30;736912;4532300;Estante;No Profesional;Convencional;61
+ES440510000907;Producción y reproducción;Abejas;Producción productos apícolas ;Calanda;TERUEL;ALCAÑIZ;30;733486;4534268;Trashumante;Profesional;Convencional;200
+ES440510000908;Producción y reproducción;Abejas;Producción productos apícolas ;Calanda;TERUEL;ALCAÑIZ;30;738381;4533388;Trashumante;No Profesional;;45
+ES440510000909;Producción y reproducción;Abejas;Producción productos apícolas ;Calanda;TERUEL;ALCAÑIZ;30;738436;4535249;Trashumante;Profesional;;500
+ES440510000910;Producción y reproducción;Abejas;Producción productos apícolas ;Calanda;TERUEL;ALCAÑIZ;30;732058;4538821;Trashumante;Profesional;Convencional;800
+ES440510000911;Producción y reproducción;Abejas;Mixta;Calanda;TERUEL;ALCAÑIZ;30;737537;4535313;Trashumante;No Profesional;Convencional;100
+ES440510000912;Producción y reproducción;Abejas;Producción productos apícolas ;Calanda;TERUEL;ALCAÑIZ;30;737758;4533447;Estante;No Profesional;Convencional;20
+ES440510011002;Producción y reproducción;Abejas;Producción productos apícolas ;Calanda;TERUEL;ALCAÑIZ;30;728468;4538500;Trashumante;No Profesional;;50
+ES440510011003;Producción y reproducción;Abejas;Producción productos apícolas ;Calanda;TERUEL;ALCAÑIZ;30;735116;4533359;Trashumante;No Profesional;Convencional;150
+ES440530000800;Producción y reproducción;Abejas;Producción productos apícolas ;Camañas;TERUEL;ALFAMBRA;30;657427;4494414;Trashumante;Profesional;Convencional;200
+ES440530000803;Producción y reproducción;Abejas;Producción productos apícolas ;Camañas;TERUEL;ALFAMBRA;30;659613;4496709;Trashumante;No Profesional;Convencional;100
+ES440540000801;Producción y reproducción;Abejas;Producción productos apícolas ;Camarena de la Sierra;TERUEL;MORA DE RUBIELOS;30;666864;4446913;Trashumante;No Profesional;Convencional;30
+ES440560011001;Producción y reproducción;Abejas;Producción productos apícolas ;Caminreal;TERUEL;MONREAL DEL CAMPO;30;636200;4522300;Trashumante;No Profesional;Convencional;20
+ES440590000113;Producción y reproducción;Abejas;Producción productos apícolas ;Cantavieja;TERUEL;CANTAVIEJA;30;719153;4489912;Trashumante;No Profesional;Convencional;12
+ES440590011003;Producción y reproducción;Abejas;Producción productos apícolas ;Cantavieja;TERUEL;CANTAVIEJA;30;717903;4487842;Trashumante;Profesional;Convencional;400
+ES440610011001;Producción y reproducción;Abejas;Producción productos apícolas ;Cañada de Verich (La);TERUEL;ALCAÑIZ;30;742978;4528452;Trashumante;No Profesional;Convencional;100
+ES440610011002;Producción y reproducción;Abejas;Producción productos apícolas ;Cañada de Verich (La);TERUEL;ALCAÑIZ;30;743279;4527446;Estante;No Profesional;Convencional;20
+ES440630000004;Producción y reproducción;Abejas;Producción productos apícolas ;Cañizar del Olivar;TERUEL;MONTALBÁN;30;697235;4521453;Trashumante;Profesional;Convencional;325
+ES440630000801;Producción y reproducción;Abejas;Producción productos apícolas ;Cañizar del Olivar;TERUEL;MONTALBÁN;30;698807;4518285;Trashumante;Profesional;Convencional;165
+ES440630011001;Producción y reproducción;Abejas;Producción productos apícolas ;Cañizar del Olivar;TERUEL;MONTALBÁN;30;697819;4521154;Trashumante;No Profesional;Convencional;175
+ES440660000006;Producción y reproducción;Abejas;Producción productos apícolas ;Castel de Cabra;TERUEL;MONTALBÁN;30;696381;4518260;Trashumante;No Profesional;Convencional;20
+ES440660000007;Producción y reproducción;Abejas;Producción productos apícolas ;Castel de Cabra;TERUEL;MONTALBÁN;30;696028;4517643;Trashumante;No Profesional;Convencional;81
+ES440660011001;Producción y reproducción;Abejas;Producción productos apícolas ;Castel de Cabra;TERUEL;MONTALBÁN;30;639124;4521320;Trashumante;No Profesional;Convencional;25
+ES440660011002;Producción y reproducción;Abejas;Producción productos apícolas ;Castel de Cabra;TERUEL;MONTALBÁN;30;695660;4517854;Trashumante;No Profesional;Convencional;50
+ES440660011003;Producción y reproducción;Abejas;Producción productos apícolas ;Castel de Cabra;TERUEL;MONTALBÁN;30;720029;4484675;Trashumante;No Profesional;Convencional;50
+ES440710000050;Producción y reproducción;Abejas;Producción productos apícolas ;Castellote;TERUEL;ALCORISA;30;727565;4518648;Trashumante;Profesional;Convencional;250
+ES440710000809;Producción y reproducción;Abejas;Producción productos apícolas ;Castellote;TERUEL;ALCORISA;30;718325;4515821;Trashumante;No Profesional;Convencional;50
+ES440710000810;Producción y reproducción;Abejas;Producción productos apícolas ;Castellote;TERUEL;ALCORISA;30;717399;4515427;Trashumante;No Profesional;Convencional;60
+ES440710000811;Producción y reproducción;Abejas;Producción productos apícolas ;Castellote;TERUEL;ALCORISA;30;717944;4515535;Estante;No Profesional;Convencional;50
+ES440710000813;Producción y reproducción;Abejas;Producción productos apícolas ;Castellote;TERUEL;ALCORISA;30;721604;4516201;Trashumante;No Profesional;Convencional;70
+ES440710000814;Producción y reproducción;Abejas;Producción productos apícolas ;Castellote;TERUEL;ALCORISA;30;720576;4517427;Estante;No Profesional;Convencional;22
+ES440710000815;Producción y reproducción;Abejas;Producción productos apícolas ;Castellote;TERUEL;ALCORISA;30;725694;4519297;Trashumante;No Profesional;Convencional;30
+ES440710011002;Producción y reproducción;Abejas;Producción productos apícolas ;Castellote;TERUEL;ALCORISA;30;719888;4511680;Trashumante;Profesional;Convencional;300
+ES440710011004;Producción y reproducción;Abejas;Producción productos apícolas ;Castellote;TERUEL;ALCORISA;30;724665;4518797;Trashumante;No Profesional;Convencional;75
+ES440740011001;Producción y reproducción;Abejas;Producción productos apícolas ;Cedrillas;TERUEL;TERUEL;30;686365;4475829;Trashumante;No Profesional;Convencional;50
+ES440760000812;Producción y reproducción;Abejas;Producción productos apícolas ;Cella;TERUEL;CELLA;30;638831;4478884;Trashumante;No Profesional;Convencional;122
+ES440760000815;Producción y reproducción;Abejas;Producción productos apícolas ;Cella;TERUEL;CELLA;30;641154;4480016;Trashumante;No Profesional;;20
+ES440800011001;Producción y reproducción;Abejas;Producción productos apícolas ;Codoñera (La);TERUEL;ALCAÑIZ;30;762368;4536036;Trashumante;No Profesional;Convencional;20
+ES440840000007;Producción y reproducción;Abejas;Producción productos apícolas ;Cortes de Aragón;TERUEL;MUNIESA;30;684759;4537593;Trashumante;No Profesional;Convencional;24
+ES440860011002;Producción y reproducción;Abejas;Producción productos apícolas ;Cretas;TERUEL;VALDERROBRES;31;268022;4533999;Trashumante;Profesional;Convencional;150
+ES440920000801;Producción y reproducción;Abejas;Producción productos apícolas ;Cuervo (El);TERUEL;TERUEL;30;641639;4447616;Estante;No Profesional;Convencional;75
+ES440920000802;Producción y reproducción;Abejas;Producción productos apícolas ;Cuervo (El);TERUEL;TERUEL;30;637708;4444449;Estante;No Profesional;Convencional;96
+ES440930011001;Producción y reproducción;Abejas;Producción productos apícolas ;Cuevas de Almudén;TERUEL;MONTALBÁN;30;685955;4511932;Trashumante;No Profesional;Convencional;150
+ES440960000010;Producción y reproducción;Abejas;Producción productos apícolas ;Ejulve;TERUEL;ANDORRA;30;702041;4518496;Trashumante;No Profesional;Convencional;30
+ES440960000011;Producción y reproducción;Abejas;Producción productos apícolas ;Ejulve;TERUEL;ANDORRA;30;711209;4516641;Trashumante;No Profesional;Convencional;170
+ES440960000018;Producción y reproducción;Abejas;Producción productos apícolas ;Ejulve;TERUEL;ANDORRA;30;708241;4517003;Trashumante;Profesional;Convencional;200
+ES440960000019;Producción y reproducción;Abejas;Mixta;Ejulve;TERUEL;ANDORRA;30;705877;4515393;Trashumante;No Profesional;Convencional;100
+ES440960000021;Producción y reproducción;Abejas;Producción productos apícolas ;Ejulve;TERUEL;ANDORRA;30;703709;4514378;Trashumante;Profesional;Convencional;160
+ES440960011001;Producción y reproducción;Abejas;Producción productos apícolas ;Ejulve;TERUEL;ANDORRA;30;707284;4519335;Trashumante;Profesional;Convencional;175
+ES440960011003;Producción y reproducción;Abejas;Producción productos apícolas ;Ejulve;TERUEL;ANDORRA;30;710007;4518031;Trashumante;No Profesional;Convencional;20
+ES440960011004;Producción y reproducción;Abejas;Producción productos apícolas ;Ejulve;TERUEL;ANDORRA;30;709677;4510518;Trashumante;No Profesional;Convencional;100
+ES440990000011;Producción y reproducción;Abejas;Producción productos apícolas ;Escucha;TERUEL;MONTALBÁN;30;681132;4516107;Trashumante;Profesional;Convencional;1000
+ES441000000001;Producción y reproducción;Abejas;Mixta;Estercuel;TERUEL;ANDORRA;30;697385;4524734;Trashumante;No Profesional;Convencional;100
+ES441000011001;Producción y reproducción;Abejas;Producción productos apícolas ;Estercuel;TERUEL;ANDORRA;30;699014;4529601;Trashumante;No Profesional;Convencional;100
+ES441030011001;Producción y reproducción;Abejas;Producción productos apícolas ;Formiche Alto;TERUEL;MORA DE RUBIELOS;30;678162;4467746;Trashumante;No Profesional;Convencional;20
+ES441030011002;Producción y reproducción;Abejas;Producción productos apícolas ;Formiche Alto;TERUEL;MORA DE RUBIELOS;30;679908;4469336;Trashumante;No Profesional;Convencional;20
+ES441030011003;Producción y reproducción;Abejas;Producción productos apícolas ;Formiche Alto;TERUEL;MORA DE RUBIELOS;30;676540;4465306;Trashumante;Profesional;;550
+ES441060000803;Producción y reproducción;Abejas;Producción productos apícolas ;Fortanete;TERUEL;CANTAVIEJA;30;710929;4483666;Trashumante;Profesional;Convencional;165
+ES441070000901;Producción y reproducción;Abejas;Mixta;Foz-Calanda;TERUEL;ALCAÑIZ;30;727668;4531965;Trashumante;Profesional;Convencional;300
+ES441070000902;Producción y reproducción;Abejas;Mixta;Foz-Calanda;TERUEL;ALCAÑIZ;30;729011;4533266;Trashumante;Profesional;;300
+ES441100000002;Producción y reproducción;Abejas;Producción productos apícolas ;Fuenferrada;TERUEL;MONTALBÁN;30;668332;4525466;Estante;No Profesional;Convencional;15
+ES441130000800;Producción y reproducción;Abejas;Producción productos apícolas ;Fuentes de Rubielos;TERUEL;MORA DE RUBIELOS;30;704642;4445698;Estante;No Profesional;Convencional;50
+ES441130011002;Producción y reproducción;Abejas;Producción productos apícolas ;Fuentes de Rubielos;TERUEL;MORA DE RUBIELOS;30;703345;4497115;Trashumante;No Profesional;Convencional;20
+ES441140000900;Producción y reproducción;Abejas;Producción productos apícolas ;Fuentespalda;TERUEL;VALDERROBRES;31;253644;4523775;Trashumante;No Profesional;Convencional;50
+ES441140000901;Producción y reproducción;Abejas;Polinización;Fuentespalda;TERUEL;VALDERROBRES;30;755512;4519118;Estante;No Profesional;Convencional;35
+ES441170000802;Producción y reproducción;Abejas;Producción productos apícolas ;Gea de Albarracín;TERUEL;ALBARRACÍN;30;642639;4471955;Trashumante;No Profesional;Convencional;30
+ES441180000808;Producción y reproducción;Abejas;Producción productos apícolas ;Ginebrosa (La);TERUEL;ALCORISA;30;740915;4527736;Trashumante;Profesional;Convencional;440
+ES441180000815;Producción y reproducción;Abejas;Producción productos apícolas ;Ginebrosa (La);TERUEL;ALCORISA;30;734381;4529127;Trashumante;Profesional;Convencional;320
+ES441180011001;Producción y reproducción;Abejas;Producción productos apícolas ;Ginebrosa (La);TERUEL;ALCORISA;30;735777;4527559;Trashumante;No Profesional;Convencional;120
+ES441180011002;Producción y reproducción;Abejas;Producción productos apícolas ;Ginebrosa (La);TERUEL;ALCORISA;30;739874;4529742;Trashumante;No Profesional;Convencional;25
+ES441180011006;Producción y reproducción;Abejas;Producción productos apícolas ;Ginebrosa (La);TERUEL;ALCORISA;30;727312;4529529;Trashumante;No Profesional;Convencional;20
+ES441230000012;Producción y reproducción;Abejas;Producción productos apícolas ;Hinojosa de Jarque;TERUEL;MONTALBÁN;30;688178;4506320;Trashumante;No Profesional;Convencional;100
+ES441230000015;Producción y reproducción;Abejas;Producción productos apícolas ;Hinojosa de Jarque;TERUEL;MONTALBÁN;30;687261;4507798;Trashumante;Profesional;Convencional;760
+ES441240000035;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz de la Vieja (La);TERUEL;MUNIESA;30;681341;4530623;Trashumante;No Profesional;Convencional;20
+ES441240000037;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz de la Vieja (La);TERUEL;MUNIESA;30;678047;4534078;Trashumante;No Profesional;Convencional;160
+ES441240000039;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz de la Vieja (La);TERUEL;MUNIESA;30;682830;4543663;Trashumante;No Profesional;Convencional;25
+ES441240000040;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz de la Vieja (La);TERUEL;MUNIESA;30;683699;4530124;Trashumante;No Profesional;Convencional;40
+ES441240000043;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz de la Vieja (La);TERUEL;MUNIESA;30;683878;4534962;Estante;No Profesional;Convencional;25
+ES441240011001;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz de la Vieja (La);TERUEL;MUNIESA;30;680895;4529953;Trashumante;No Profesional;Convencional;100
+ES441240011002;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz de la Vieja (La);TERUEL;MUNIESA;30;681910;4529254;Trashumante;No Profesional;Convencional;70
+ES441240011003;Producción y reproducción;Abejas;Producción productos apícolas ;Hoz de la Vieja (La);TERUEL;MUNIESA;30;680836;4536095;Trashumante;No Profesional;Convencional;30
+ES441250000113;Producción y reproducción;Abejas;Producción productos apícolas ;Huesa del Común;TERUEL;MUNIESA;30;674835;4543902;Trashumante;No Profesional;Convencional;80
+ES441310000003;Producción y reproducción;Abejas;Producción productos apícolas ;Josa;TERUEL;MUNIESA;30;687329;4538577;Trashumante;No Profesional;Convencional;100
+ES441350000807;Producción y reproducción;Abejas;Producción productos apícolas ;Libros;TERUEL;TERUEL;30;653196;4443172;Trashumante;No Profesional;Convencional;52
+ES441350000809;Producción y reproducción;Abejas;Producción productos apícolas ;Libros;TERUEL;TERUEL;30;649354;4444700;Estante;No Profesional;Convencional;25
+ES441350000810;Producción y reproducción;Abejas;Producción productos apícolas ;Libros;TERUEL;TERUEL;30;648125;4442251;Estante;No Profesional;Convencional;15
+ES441350011002;Producción y reproducción;Abejas;Producción productos apícolas ;Libros;TERUEL;TERUEL;30;653804;4444300;Trashumante;No Profesional;Convencional;50
+ES441370000802;Producción y reproducción;Abejas;Producción productos apícolas ;Linares de Mora;TERUEL;MORA DE RUBIELOS;30;710561;4460945;Estante;No Profesional;Convencional;30
+ES441370011001;Producción y reproducción;Abejas;Producción productos apícolas ;Linares de Mora;TERUEL;MORA DE RUBIELOS;30;707180;4466026;Trashumante;No Profesional;Convencional;20
+ES441380000017;Producción y reproducción;Abejas;Producción productos apícolas ;Loscos;TERUEL;CALAMOCHA;30;663330;4552615;Trashumante;Profesional;;160
+ES441380000021;Producción y reproducción;Abejas;Producción productos apícolas ;Loscos;TERUEL;CALAMOCHA;30;662067;4550636;Trashumante;No Profesional;Convencional;25
+ES441380000800;Producción y reproducción;Abejas;Producción productos apícolas ;Loscos;TERUEL;CALAMOCHA;30;664141;4546290;Estante;No Profesional;Convencional;30
+ES441380011002;Producción y reproducción;Abejas;Producción productos apícolas ;Loscos;TERUEL;CALAMOCHA;30;660658;4547932;Trashumante;No Profesional;Convencional;12
+ES441410011001;Producción y reproducción;Abejas;Producción productos apícolas ;Lledó;TERUEL;VALDERROBRES;31;270159;4536853;Trashumante;No Profesional;Convencional;100
+ES441420000003;Producción y reproducción;Abejas;Producción productos apícolas ;Maicas;TERUEL;MUNIESA;30;678204;4537007;Trashumante;No Profesional;Convencional;100
+ES441420000804;Producción y reproducción;Abejas;Producción productos apícolas ;Maicas;TERUEL;MUNIESA;30;677145;4535616;Trashumante;No Profesional;Convencional;80
+ES441430011001;Producción y reproducción;Abejas;Producción productos apícolas ;Manzanera;TERUEL;MORA DE RUBIELOS;30;679215;4435411;Trashumante;No Profesional;Convencional;30
+ES441430011003;Producción y reproducción;Abejas;Producción productos apícolas ;Manzanera;TERUEL;MORA DE RUBIELOS;30;685423;4437831;Trashumante;No Profesional;Convencional;50
+ES441430011004;Producción y reproducción;Abejas;Producción productos apícolas ;Manzanera;TERUEL;MORA DE RUBIELOS;30;686865;4439274;Trashumante;Profesional;Convencional;200
+ES441440000026;Producción y reproducción;Abejas;Producción productos apícolas ;Martín del Río;TERUEL;MONTALBÁN;30;679519;4523759;Trashumante;Profesional;Convencional;300
+ES441440000028;Producción y reproducción;Abejas;Producción productos apícolas ;Martín del Río;TERUEL;MONTALBÁN;30;677243;4521592;Trashumante;No Profesional;Convencional;60
+ES441440011001;Producción y reproducción;Abejas;Producción productos apícolas ;Martín del Río;TERUEL;MONTALBÁN;30;679571;4523933;Trashumante;No Profesional;Convencional;100
+ES441450000811;Producción y reproducción;Abejas;Producción productos apícolas ;Mas de las Matas;TERUEL;ALCORISA;30;727731;4525297;Trashumante;Profesional;Convencional;200
+ES441450011001;Producción y reproducción;Abejas;Producción productos apícolas ;Mas de las Matas;TERUEL;ALCORISA;30;726816;4526427;Estante;No Profesional;Convencional;16
+ES441450011002;Producción y reproducción;Abejas;Producción productos apícolas ;Mas de las Matas;TERUEL;ALCORISA;30;731320;4523707;Estante;No Profesional;Convencional;30
+ES441450011003;Producción y reproducción;Abejas;Producción productos apícolas ;Mas de las Matas;TERUEL;ALCORISA;30;733459;4526452;Trashumante;No Profesional;Convencional;70
+ES441460000009;Producción y reproducción;Abejas;Producción productos apícolas ;Mata de los Olmos (La);TERUEL;ALCORISA;30;706517;4526784;Trashumante;No Profesional;Convencional;120
+ES441460000010;Producción y reproducción;Abejas;Producción productos apícolas ;Mata de los Olmos (La);TERUEL;ALCORISA;30;708579;4527200;Estante;No Profesional;;30
+ES441470000902;Producción y reproducción;Abejas;Producción productos apícolas ;Mazaleón;TERUEL;VALDERROBRES;31;256547;4549216;Trashumante;No Profesional;Convencional;51
+ES441480000010;Producción y reproducción;Abejas;Producción productos apícolas ;Mezquita de Jarque;TERUEL;MONTALBÁN;30;680634;4511198;Trashumante;Profesional;Convencional;75
+ES441510000022;Producción y reproducción;Abejas;Producción productos apícolas ;Molinos;TERUEL;ALCORISA;30;713186;4519959;Estante;No Profesional;Convencional;50
+ES441510000023;Producción y reproducción;Abejas;Producción productos apícolas ;Molinos;TERUEL;ALCORISA;30;713266;4523843;Estante;No Profesional;Convencional;15
+ES441510000802;Producción y reproducción;Abejas;Producción productos apícolas ;Molinos;TERUEL;ALCORISA;30;715213;4519905;Estante;No Profesional;Convencional;25
+ES441510000803;Producción y reproducción;Abejas;Producción productos apícolas ;Molinos;TERUEL;ALCORISA;30;718333;4523049;Trashumante;No Profesional;Convencional;60
+ES441510000805;Producción y reproducción;Abejas;Producción productos apícolas ;Molinos;TERUEL;ALCORISA;30;718503;4522896;Trashumante;No Profesional;Convencional;25
+ES441520000801;Producción y reproducción;Abejas;Producción productos apícolas ;Monforte de Moyuela;TERUEL;CALAMOCHA;30;668692;4548160;Trashumante;No Profesional;Convencional;40
+ES441520000802;Producción y reproducción;Abejas;Producción productos apícolas ;Monforte de Moyuela;TERUEL;CALAMOCHA;30;666623;4546224;Estante;No Profesional;Convencional;30
+ES441530000151;Producción y reproducción;Abejas;Producción productos apícolas ;Monreal del Campo;TERUEL;MONREAL DEL CAMPO;30;642968;4513231;Trashumante;Profesional;Convencional;480
+ES441530000152;Producción y reproducción;Abejas;Producción productos apícolas ;Monreal del Campo;TERUEL;MONREAL DEL CAMPO;30;636957;4518131;Trashumante;No Profesional;Convencional;20
+ES441530000808;Producción y reproducción;Abejas;Producción productos apícolas ;Monreal del Campo;TERUEL;MONREAL DEL CAMPO;30;645438;4514624;Estante;No Profesional;Convencional;20
+ES441530011002;Producción y reproducción;Abejas;Producción productos apícolas ;Monreal del Campo;TERUEL;MONREAL DEL CAMPO;30;638791;4518517;Trashumante;No Profesional;Convencional;25
+ES441530011003;Producción y reproducción;Abejas;Producción productos apícolas ;Monreal del Campo;TERUEL;MONREAL DEL CAMPO;30;635930;4517778;Trashumante;No Profesional;Convencional;65
+ES441540000903;Producción y reproducción;Abejas;Producción productos apícolas ;Monroyo;TERUEL;VALDERROBRES;30;751788;4517966;Trashumante;No Profesional;Convencional;50
+ES441540011001;Producción y reproducción;Abejas;Producción productos apícolas ;Monroyo;TERUEL;VALDERROBRES;30;752663;4516637;Trashumante;Profesional;Convencional;350
+ES441550000003;Producción y reproducción;Abejas;Producción productos apícolas ;Montalbán;TERUEL;MONTALBÁN;30;686834;4526907;Trashumante;No Profesional;Convencional;100
+ES441550000005;Producción y reproducción;Abejas;Producción productos apícolas ;Montalbán;TERUEL;MONTALBÁN;30;686305;4530279;Trashumante;No Profesional;Convencional;30
+ES441550000030;Producción y reproducción;Abejas;Producción productos apícolas ;Montalbán;TERUEL;MONTALBÁN;30;684056;4523385;Trashumante;Profesional;Convencional;33
+ES441550000031;Producción y reproducción;Abejas;Producción productos apícolas ;Montalbán;TERUEL;MONTALBÁN;30;688091;4524508;Estante;No Profesional;Convencional;15
+ES441550011001;Producción y reproducción;Abejas;Producción productos apícolas ;Montalbán;TERUEL;MONTALBÁN;30;687534;4524392;Estante;No Profesional;Convencional;20
+ES441550011003;Producción y reproducción;Abejas;Producción productos apícolas ;Montalbán;TERUEL;MONTALBÁN;30;684210;4526987;Trashumante;No Profesional;Convencional;30
+ES441550011005;Producción y reproducción;Abejas;Producción productos apícolas ;Montalbán;TERUEL;MONTALBÁN;30;687926;4520959;Trashumante;No Profesional;Convencional;50
+ES441570000800;Producción y reproducción;Abejas;Producción productos apícolas ;Monterde de Albarracín;TERUEL;ALBARRACÍN;30;627940;4483399;Estante;No Profesional;Convencional;25
+ES441580000020;Producción y reproducción;Abejas;Producción productos apícolas ;Mora de Rubielos;TERUEL;MORA DE RUBIELOS;30;697451;4459021;Trashumante;No Profesional;Convencional;22
+ES441580000027;Producción y reproducción;Abejas;Producción productos apícolas ;Mora de Rubielos;TERUEL;MORA DE RUBIELOS;30;697451;4459021;Trashumante;No Profesional;Convencional;50
+ES441580000809;Producción y reproducción;Abejas;Producción productos apícolas ;Mora de Rubielos;TERUEL;MORA DE RUBIELOS;30;688813;4457291;Estante;No Profesional;Convencional;30
+ES441580011002;Producción y reproducción;Abejas;Producción productos apícolas ;Mora de Rubielos;TERUEL;MORA DE RUBIELOS;30;694019;4462431;Trashumante;No Profesional;Convencional;50
+ES441580011004;Producción y reproducción;Abejas;Producción productos apícolas ;Mora de Rubielos;TERUEL;MORA DE RUBIELOS;30;694735;4455898;Trashumante;No Profesional;Convencional;30
+ES441600000814;Producción y reproducción;Abejas;Producción productos apícolas ;Mosqueruela;TERUEL;MORA DE RUBIELOS;30;722681;4473541;Estante;No Profesional;Convencional;23
+ES441600000817;Producción y reproducción;Abejas;Producción productos apícolas ;Mosqueruela;TERUEL;MORA DE RUBIELOS;30;722531;4468216;Trashumante;Profesional;Convencional;235
+ES441600011001;Producción y reproducción;Abejas;Producción productos apícolas ;Mosqueruela;TERUEL;MORA DE RUBIELOS;30;720225;4468720;Trashumante;Profesional;Convencional;260
+ES441600011002;Producción y reproducción;Abejas;Producción productos apícolas ;Mosqueruela;TERUEL;MORA DE RUBIELOS;30;717200;4468910;Trashumante;Profesional;Convencional;200
+ES441610000013;Producción y reproducción;Abejas;Producción productos apícolas ;Muniesa;TERUEL;MUNIESA;30;691955;4552005;Trashumante;Profesional;Convencional;200
+ES441610000033;Producción y reproducción;Abejas;Producción productos apícolas ;Muniesa;TERUEL;MUNIESA;30;688264;4557327;Trashumante;Profesional;Convencional;390
+ES441610000085;Producción y reproducción;Abejas;Mixta;Muniesa;TERUEL;MUNIESA;30;685873;4552707;Trashumante;Profesional;Convencional;460
+ES441610000090;Producción y reproducción;Abejas;Producción productos apícolas ;Muniesa;TERUEL;MUNIESA;30;689229;4555803;Trashumante;No Profesional;Convencional;175
+ES441610000806;Producción y reproducción;Abejas;Producción productos apícolas ;Muniesa;TERUEL;MUNIESA;30;686279;4555270;Trashumante;No Profesional;Convencional;34
+ES441610000809;Producción y reproducción;Abejas;Producción productos apícolas ;Muniesa;TERUEL;MUNIESA;30;687317;4541714;Trashumante;Profesional;Convencional;155
+ES441610011001;Producción y reproducción;Abejas;Producción productos apícolas ;Muniesa;TERUEL;MUNIESA;30;685953;4551774;Trashumante;Profesional;Convencional;150
+ES441650000800;Producción y reproducción;Abejas;Producción productos apícolas ;Nogueruelas;TERUEL;MORA DE RUBIELOS;30;700241;4456468;Trashumante;No Profesional;Convencional;40
+ES441650000801;Producción y reproducción;Abejas;Producción productos apícolas ;Nogueruelas;TERUEL;MORA DE RUBIELOS;30;697722;4458279;Trashumante;No Profesional;;11
+ES441650011001;Producción y reproducción;Abejas;Producción productos apícolas ;Nogueruelas;TERUEL;MORA DE RUBIELOS;30;696721;4457291;Estante;No Profesional;Convencional;15
+ES441650011002;Producción y reproducción;Abejas;Producción productos apícolas ;Nogueruelas;TERUEL;MORA DE RUBIELOS;30;704107;4456607;Estante;No Profesional;Convencional;25
+ES441650011003;Producción y reproducción;Abejas;Producción productos apícolas ;Nogueruelas;TERUEL;MORA DE RUBIELOS;30;701200;4455260;Trashumante;No Profesional;Convencional;50
+ES441650011004;Producción y reproducción;Abejas;Producción productos apícolas ;Nogueruelas;TERUEL;MORA DE RUBIELOS;30;705401;4461760;Trashumante;No Profesional;Convencional;20
+ES441670000802;Producción y reproducción;Abejas;Producción productos apícolas ;Obón;TERUEL;MUNIESA;30;693216;4530041;Trashumante;No Profesional;Convencional;100
+ES441670000804;Producción y reproducción;Abejas;Producción productos apícolas ;Obón;TERUEL;MUNIESA;30;694436;4529921;Trashumante;No Profesional;Convencional;30
+ES441670011001;Producción y reproducción;Abejas;Producción productos apícolas ;Obón;TERUEL;MUNIESA;30;692306;4532012;Estante;No Profesional;Convencional;24
+ES441670011003;Producción y reproducción;Abejas;Producción productos apícolas ;Obón;TERUEL;MUNIESA;30;692144;4532332;Estante;No Profesional;Convencional;70
+ES441670011005;Producción y reproducción;Abejas;Producción productos apícolas ;Obón;TERUEL;MUNIESA;30;694260;4530855;Trashumante;Profesional;Convencional;150
+ES441690000805;Producción y reproducción;Abejas;Producción productos apícolas ;Ojos Negros;TERUEL;MONREAL DEL CAMPO;30;628691;4509091;Estante;No Profesional;Convencional;20
+ES441690011004;Producción y reproducción;Abejas;Producción productos apícolas ;Ojos Negros;TERUEL;MONREAL DEL CAMPO;30;625018;4510517;Trashumante;No Profesional;;30
+ES441710000802;Producción y reproducción;Abejas;Producción productos apícolas ;Olba;TERUEL;MORA DE RUBIELOS;30;699280;4444611;Trashumante;No Profesional;Convencional;80
+ES441720000801;Producción y reproducción;Abejas;Producción productos apícolas ;Oliete;TERUEL;ANDORRA;30;702724;4536607;Trashumante;No Profesional;Convencional;65
+ES441720000802;Producción y reproducción;Abejas;Producción productos apícolas ;Oliete;TERUEL;ANDORRA;30;702993;4542006;Trashumante;No Profesional;;30
+ES441720000803;Producción y reproducción;Abejas;Producción productos apícolas ;Oliete;TERUEL;ANDORRA;30;697579;4537846;Trashumante;No Profesional;;20
+ES441720011002;Producción y reproducción;Abejas;Producción productos apícolas ;Oliete;TERUEL;ANDORRA;30;702716;4536587;Trashumante;No Profesional;Convencional;20
+ES441730000015;Producción y reproducción;Abejas;Producción productos apícolas ;Olmos (Los);TERUEL;ALCORISA;30;710586;4531590;Trashumante;Profesional;Convencional;200
+ES441730011001;Producción y reproducción;Abejas;Producción productos apícolas ;Olmos (Los);TERUEL;ALCORISA;30;710667;4527875;Trashumante;Profesional;Convencional;350
+ES441730011002;Producción y reproducción;Abejas;Producción productos apícolas ;Olmos (Los);TERUEL;ALCORISA;30;712854;4535542;Trashumante;No Profesional;Convencional;55
+ES441760000001;Producción y reproducción;Abejas;Producción productos apícolas ;Palomar de Arroyos;TERUEL;MONTALBÁN;30;687568;4517338;Trashumante;No Profesional;Convencional;33
+ES441760000012;Producción y reproducción;Abejas;Producción productos apícolas ;Palomar de Arroyos;TERUEL;MONTALBÁN;30;687864;4516776;Estante;No Profesional;Convencional;30
+ES441760000013;Producción y reproducción;Abejas;Producción productos apícolas ;Palomar de Arroyos;TERUEL;MONTALBÁN;30;690562;4517211;Trashumante;No Profesional;Convencional;20
+ES441770000802;Producción y reproducción;Abejas;Producción productos apícolas ;Pancrudo;TERUEL;ALFAMBRA;30;671943;4516035;Trashumante;No Profesional;Convencional;22
+ES441770011001;Producción y reproducción;Abejas;Producción productos apícolas ;Pancrudo;TERUEL;ALFAMBRA;30;665907;4512941;Trashumante;No Profesional;;25
+ES441780000803;Producción y reproducción;Abejas;Producción productos apícolas ;Parras de Castellote (Las);TERUEL;ALCORISA;30;731186;4516620;Trashumante;No Profesional;;100
+ES441790000900;Producción y reproducción;Abejas;Producción productos apícolas ;Peñarroya de Tastavins;TERUEL;VALDERROBRES;31;248862;4514132;Trashumante;No Profesional;Convencional;149
+ES441790011001;Producción y reproducción;Abejas;Producción productos apícolas ;Peñarroya de Tastavins;TERUEL;VALDERROBRES;30;758631;4518159;Estante;No Profesional;Convencional;45
+ES441790011003;Producción y reproducción;Abejas;Producción productos apícolas ;Peñarroya de Tastavins;TERUEL;VALDERROBRES;31;252712;4515558;Trashumante;No Profesional;Convencional;20
+ES441800000016;Producción y reproducción;Abejas;Producción productos apícolas ;Peracense;TERUEL;MONREAL DEL CAMPO;30;633397;4500337;Trashumante;Profesional;Convencional;195
+ES441800000800;Producción y reproducción;Abejas;Producción productos apícolas ;Peracense;TERUEL;MONREAL DEL CAMPO;30;701027;4445032;Estante;No Profesional;Convencional;55
+ES441800000802;Producción y reproducción;Abejas;Producción productos apícolas ;Peracense;TERUEL;MONREAL DEL CAMPO;30;631111;4502784;Estante;No Profesional;Convencional;30
+ES441800000803;Producción y reproducción;Abejas;Producción productos apícolas ;Peracense;TERUEL;MONREAL DEL CAMPO;30;630134;4498742;Estante;No Profesional;Convencional;150
+ES441800011002;Producción y reproducción;Abejas;Producción productos apícolas ;Peracense;TERUEL;MONREAL DEL CAMPO;30;631741;4502084;Trashumante;No Profesional;;25
+ES441800011005;Producción y reproducción;Abejas;Producción productos apícolas ;Peracense;TERUEL;MONREAL DEL CAMPO;30;629094;4501420;Estante;No Profesional;Convencional;23
+ES441800011006;Producción y reproducción;Abejas;Producción productos apícolas ;Peracense;TERUEL;MONREAL DEL CAMPO;30;629301;4501469;Estante;No Profesional;Convencional;25
+ES441810011001;Producción y reproducción;Abejas;Producción productos apícolas ;Peralejos;TERUEL;ALFAMBRA;30;668248;4482261;Trashumante;Profesional;Convencional;300
+ES441830000004;Producción y reproducción;Abejas;Producción productos apícolas ;Pitarque;TERUEL;CANTAVIEJA;30;703837;4502512;Trashumante;No Profesional;Convencional;15
+ES441870011001;Producción y reproducción;Abejas;Producción productos apícolas ;Portellada (La);TERUEL;VALDERROBRES;31;252843;4529217;Trashumante;No Profesional;Convencional;100
+ES441890000802;Producción y reproducción;Abejas;Mixta;Pozondón;TERUEL;ALBARRACÍN;30;635629;4492021;Trashumante;Profesional;Convencional;350
+ES441900011001;Producción y reproducción;Abejas;Producción productos apícolas ;Pozuel del Campo;TERUEL;MONREAL DEL CAMPO;30;624794;4516225;Trashumante;No Profesional;Convencional;50
+ES441920011002;Producción y reproducción;Abejas;Producción productos apícolas ;Puebla de Valverde (La);TERUEL;MORA DE RUBIELOS;30;681181;4454122;Trashumante;No Profesional;Convencional;20
+ES441930000801;Producción y reproducción;Abejas;Producción productos apícolas ;Puertomingalvo;TERUEL;MORA DE RUBIELOS;30;715956;4458021;Estante;No Profesional;;17
+ES441930000802;Producción y reproducción;Abejas;Producción productos apícolas ;Puertomingalvo;TERUEL;MORA DE RUBIELOS;30;713223;4460750;Estante;No Profesional;Convencional;15
+ES441940000900;Producción y reproducción;Abejas;Producción productos apícolas ;Ráfales;TERUEL;VALDERROBRES;30;752194;4526345;Trashumante;No Profesional;Convencional;90
+ES441940000901;Producción y reproducción;Abejas;Mixta;Ráfales;TERUEL;VALDERROBRES;30;749940;4522379;Trashumante;No Profesional;Convencional;60
+ES441940000906;Producción y reproducción;Abejas;Mixta;Ráfales;TERUEL;VALDERROBRES;30;749940;4522379;Trashumante;No Profesional;Convencional;70
+ES441940000907;Producción y reproducción;Abejas;Producción productos apícolas ;Ráfales;TERUEL;VALDERROBRES;30;758059;4526901;Estante;No Profesional;Convencional;40
+ES441960000800;Producción y reproducción;Abejas;Producción productos apícolas ;Riodeva;TERUEL;TERUEL;30;657885;4441942;Estante;Profesional;Convencional;200
+ES441960000801;Producción y reproducción;Abejas;Producción productos apícolas ;Riodeva;TERUEL;TERUEL;30;658469;4442872;Trashumante;No Profesional;Convencional;70
+ES441960000803;Producción y reproducción;Abejas;Producción productos apícolas ;Riodeva;TERUEL;TERUEL;30;657234;4443016;Trashumante;No Profesional;Convencional;50
+ES441960011001;Producción y reproducción;Abejas;Producción productos apícolas ;Riodeva;TERUEL;TERUEL;30;654229;4441752;Trashumante;Profesional;Convencional;150
+ES441960011002;Producción y reproducción;Abejas;Producción productos apícolas ;Riodeva;TERUEL;TERUEL;30;656204;4442223;Trashumante;No Profesional;Convencional;20
+ES441960011003;Producción y reproducción;Abejas;Producción productos apícolas ;Riodeva;TERUEL;TERUEL;30;659263;4442260;Trashumante;No Profesional;Convencional;50
+ES441990000800;Producción y reproducción;Abejas;Producción productos apícolas ;Rubiales;TERUEL;TERUEL;30;644561;4457845;Estante;No Profesional;;25
+ES442010000805;Producción y reproducción;Abejas;Producción productos apícolas ;Rubielos de Mora;TERUEL;MORA DE RUBIELOS;30;700088;4446428;Estante;No Profesional;Convencional;20
+ES442010000806;Producción y reproducción;Abejas;Producción productos apícolas ;Rubielos de Mora;TERUEL;MORA DE RUBIELOS;30;699946;4446034;Estante;No Profesional;Convencional;40
+ES442010011001;Producción y reproducción;Abejas;Producción productos apícolas ;Rubielos de Mora;TERUEL;MORA DE RUBIELOS;30;697895;4450701;Trashumante;No Profesional;Convencional;50
+ES442060000801;Producción y reproducción;Abejas;Producción productos apícolas ;San Agustín;TERUEL;MORA DE RUBIELOS;30;702860;4439284;Trashumante;Profesional;Convencional;400
+ES442060011002;Producción y reproducción;Abejas;Producción productos apícolas ;San Agustín;TERUEL;MORA DE RUBIELOS;30;695169;4436626;Trashumante;No Profesional;Convencional;20
+ES442080000002;Producción y reproducción;Abejas;Producción productos apícolas ;Santa Cruz de Nogueras;TERUEL;CALAMOCHA;30;659694;4554314;Estante;No Profesional;;25
+ES442090011001;Producción y reproducción;Abejas;Producción productos apícolas ;Santa Eulalia;TERUEL;CELLA;30;638668;4489440;Trashumante;No Profesional;Convencional;40
+ES442100011001;Producción y reproducción;Abejas;Mixta;Sarrión;TERUEL;MORA DE RUBIELOS;30;683647;4445116;Trashumante;No Profesional;Convencional;100
+ES442110000002;Producción y reproducción;Abejas;Producción productos apícolas ;Segura de los Baños;TERUEL;MONTALBÁN;30;674672;4535583;Trashumante;No Profesional;Convencional;18
+ES442110000003;Producción y reproducción;Abejas;Producción productos apícolas ;Segura de los Baños;TERUEL;MONTALBÁN;30;674942;4535358;Estante;No Profesional;Convencional;55
+ES442110000004;Producción y reproducción;Abejas;Producción productos apícolas ;Segura de los Baños;TERUEL;MONTALBÁN;30;675792;4533674;Trashumante;No Profesional;;18
+ES442110000005;Producción y reproducción;Abejas;Producción productos apícolas ;Segura de los Baños;TERUEL;MONTALBÁN;30;675557;4534602;Trashumante;No Profesional;;26
+ES442110011001;Producción y reproducción;Abejas;Producción productos apícolas ;Segura de los Baños;TERUEL;MONTALBÁN;30;673511;4536151;Trashumante;Profesional;;300
+ES442150011001;Producción y reproducción;Abejas;Mixta;Terriente;TERUEL;ALBARRACÍN;30;626520;4457482;Trashumante;No Profesional;Convencional;100
+ES442160000816;Producción y reproducción;Abejas;Producción productos apícolas ;Teruel;TERUEL;TERUEL;30;655362;4467705;Estante;No Profesional;Convencional;5
+ES442160011001;Producción y reproducción;Abejas;Producción productos apícolas ;Teruel;TERUEL;TERUEL;30;651387;4478671;Estante;No Profesional;Convencional;20
+ES442160011003;Producción y reproducción;Abejas;Producción productos apícolas ;Teruel;TERUEL;TERUEL;30;658787;4466787;Trashumante;No Profesional;Convencional;50
+ES442160011006;Producción y reproducción;Abejas;Producción productos apícolas ;Teruel;TERUEL;TERUEL;30;661203;4471904;Trashumante;No Profesional;Convencional;50
+ES442200000804;Producción y reproducción;Abejas;Producción productos apícolas ;Torralba de los Sisones;TERUEL;CALAMOCHA;30;630779;4522421;Trashumante;No Profesional;Convencional;20
+ES442230000900;Producción y reproducción;Abejas;Producción productos apícolas ;Torre de Arcas;TERUEL;VALDERROBRES;30;740754;4512537;Estante;No Profesional;Convencional;50
+ES442230000901;Producción y reproducción;Abejas;Producción productos apícolas ;Torre de Arcas;TERUEL;VALDERROBRES;30;744181;4515657;Trashumante;No Profesional;Convencional;105
+ES442240000005;Producción y reproducción;Abejas;Producción productos apícolas ;Torre de las Arcas;TERUEL;MONTALBÁN;30;694338;4523687;Trashumante;Profesional;Convencional;150
+ES442250000900;Producción y reproducción;Abejas;Mixta;Torre del Compte;TERUEL;VALDERROBRES;30;760921;4534166;Trashumante;No Profesional;Convencional;70
+ES442270000802;Producción y reproducción;Abejas;Producción productos apícolas ;Torre los Negros;TERUEL;CALAMOCHA;30;661920;4524553;Trashumante;Profesional;Convencional;293
+ES442290011002;Producción y reproducción;Abejas;Producción productos apícolas ;Torres de Albarracín;TERUEL;ALBARRACÍN;30;622938;4474908;Trashumante;No Profesional;Convencional;150
+ES442300000903;Producción y reproducción;Abejas;Producción productos apícolas ;Torrevelilla;TERUEL;ALCAÑIZ;30;743127;4532998;Trashumante;No Profesional;Convencional;14
+ES442300011004;Producción y reproducción;Abejas;Mixta;Torrevelilla;TERUEL;ALCAÑIZ;30;742035;4534459;Trashumante;No Profesional;Convencional;20
+ES442310011001;Producción y reproducción;Abejas;Producción productos apícolas ;Torrijas;TERUEL;MORA DE RUBIELOS;30;675908;4428011;Trashumante;Profesional;Convencional;300
+ES442340011001;Producción y reproducción;Abejas;Producción productos apícolas ;Tramacastiel;TERUEL;TERUEL;30;650042;4453099;Trashumante;No Profesional;Convencional;25
+ES442340011002;Producción y reproducción;Abejas;Producción productos apícolas ;Tramacastiel;TERUEL;TERUEL;30;648996;4449661;Trashumante;No Profesional;Convencional;25
+ES442340011003;Producción y reproducción;Abejas;Producción productos apícolas ;Tramacastiel;TERUEL;TERUEL;30;648790;4449617;Trashumante;No Profesional;Convencional;25
+ES442360000016;Producción y reproducción;Abejas;Mixta;Tronchón;TERUEL;CANTAVIEJA;30;716989;4501560;Estante;No Profesional;Convencional;31
+ES442380000003;Producción y reproducción;Abejas;Producción productos apícolas ;Utrillas;TERUEL;MONTALBÁN;30;674562;4518700;Estante;No Profesional;Convencional;20
+ES442380000005;Producción y reproducción;Abejas;Producción productos apícolas ;Utrillas;TERUEL;MONTALBÁN;30;675043;4518387;Estante;No Profesional;Convencional;20
+ES442410011002;Producción y reproducción;Abejas;Producción productos apícolas ;Valdealgorfa;TERUEL;ALCAÑIZ;30;749417;4543495;Trashumante;No Profesional;Convencional;149
+ES442440011001;Producción y reproducción;Abejas;Producción productos apícolas ;Valdelinares;TERUEL;MORA DE RUBIELOS;30;703274;4474894;Trashumante;No Profesional;Convencional;50
+ES442460000900;Producción y reproducción;Abejas;Mixta;Valderrobres;TERUEL;VALDERROBRES;30;758961;4512236;Trashumante;Profesional;Convencional;700
+ES442460000905;Producción y reproducción;Abejas;Producción productos apícolas ;Valderrobres;TERUEL;VALDERROBRES;30;766597;4533150;Trashumante;No Profesional;Convencional;140
+ES442460000907;Producción y reproducción;Abejas;Producción productos apícolas ;Valderrobres;TERUEL;VALDERROBRES;31;259014;4517532;Trashumante;No Profesional;Convencional;18
+ES442460011001;Producción y reproducción;Abejas;Producción productos apícolas ;Valderrobres;TERUEL;VALDERROBRES;31;259432;4525397;Estante;No Profesional;Convencional;30
+ES442470000901;Producción y reproducción;Abejas;Producción productos apícolas ;Valjunquera;TERUEL;VALDERROBRES;30;758059;4539496;Trashumante;No Profesional;;80
+ES442520000800;Producción y reproducción;Abejas;Producción productos apícolas ;Villahermosa del Campo;TERUEL;CALAMOCHA;30;647000;4552942;Trashumante;No Profesional;;13
+ES442580011001;Producción y reproducción;Abejas;Mixta;Villar del Salz;TERUEL;MONREAL DEL CAMPO;30;626494;4505711;Trashumante;No Profesional;Convencional;110
+ES442580011002;Producción y reproducción;Abejas;Producción productos apícolas ;Villar del Salz;TERUEL;MONREAL DEL CAMPO;30;626778;4503107;Estante;No Profesional;Convencional;150
+ES442580011003;Producción y reproducción;Abejas;Producción productos apícolas ;Villar del Salz;TERUEL;MONREAL DEL CAMPO;30;628589;4502048;Trashumante;Profesional;Convencional;300
+ES442580011004;Producción y reproducción;Abejas;Producción productos apícolas ;Villar del Salz;TERUEL;MONREAL DEL CAMPO;30;627613;4506065;Trashumante;Profesional;Convencional;150
+ES442580011005;Producción y reproducción;Abejas;Producción productos apícolas ;Villar del Salz;TERUEL;MONREAL DEL CAMPO;30;629013;4502576;Trashumante;Profesional;Convencional;200
+ES442600000031;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;712732;4498628;Trashumante;No Profesional;Convencional;48
+ES442600000032;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;708397;4503754;Trashumante;No Profesional;Convencional;7
+ES442600000036;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;705894;4504216;Estante;No Profesional;Convencional;20
+ES442600000038;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;708960;4506703;Estante;No Profesional;Convencional;50
+ES442600000042;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;715924;4502676;Trashumante;No Profesional;Convencional;30
+ES442600000044;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;710195;4502867;Estante;No Profesional;Convencional;48
+ES442600000047;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;709704;4500495;Estante;No Profesional;Convencional;40
+ES442600000048;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;708262;4504092;Trashumante;Profesional;Convencional;150
+ES442600000049;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;718295;4507619;Trashumante;No Profesional;Convencional;12
+ES442600011003;Producción y reproducción;Abejas;Producción productos apícolas ;Villarluengo;TERUEL;CANTAVIEJA;30;714140;4496597;Trashumante;Profesional;Convencional;600
+ES442610000810;Producción y reproducción;Abejas;Producción productos apícolas ;Villarquemado;TERUEL;CELLA;30;652899;4489220;Trashumante;Profesional;Convencional;160
+ES442630011001;Producción y reproducción;Abejas;Producción productos apícolas ;Villastar;TERUEL;TERUEL;30;655563;4460053;Trashumante;No Profesional;Convencional;80
+ES442630011002;Producción y reproducción;Abejas;Producción productos apícolas ;Villastar;TERUEL;TERUEL;30;655613;4460042;Trashumante;No Profesional;Convencional;20
+ES442630011003;Producción y reproducción;Abejas;Producción productos apícolas ;Villastar;TERUEL;TERUEL;30;655924;4458171;Estante;No Profesional;Convencional;25
+ES442640000804;Producción y reproducción;Abejas;Producción productos apícolas ;Villel;TERUEL;TERUEL;30;652175;4459191;Trashumante;No Profesional;Convencional;20
+ES442640000810;Producción y reproducción;Abejas;Producción productos apícolas ;Villel;TERUEL;TERUEL;30;652267;4449593;Trashumante;No Profesional;Convencional;70
+ES442640000811;Producción y reproducción;Abejas;Producción productos apícolas ;Villel;TERUEL;TERUEL;30;652842;4454926;Trashumante;No Profesional;;47
+ES442660011001;Producción y reproducción;Abejas;Producción productos apícolas ;Visiedo;TERUEL;ALFAMBRA;30;662559;4503877;Trashumante;No Profesional;Convencional;105
+ES442660011002;Producción y reproducción;Abejas;Producción productos apícolas ;Visiedo;TERUEL;ALFAMBRA;30;663195;4500958;Trashumante;Profesional;Convencional;800
+ES442670000009;Producción y reproducción;Abejas;Otras;Vivel del Río Martín;TERUEL;MONTALBÁN;30;676732;4527919;Trashumante;Profesional;Convencional;150
+ES442670000010;Producción y reproducción;Abejas;Producción productos apícolas ;Vivel del Río Martín;TERUEL;MONTALBÁN;30;677263;4530848;Trashumante;No Profesional;Convencional;10
+ES442670000226;Producción y reproducción;Abejas;Producción productos apícolas ;Vivel del Río Martín;TERUEL;MONTALBÁN;30;675862;4529977;Trashumante;No Profesional;Convencional;40
+ES442670011001;Producción y reproducción;Abejas;Producción productos apícolas ;Vivel del Río Martín;TERUEL;MONTALBÁN;30;675206;4526119;Trashumante;Profesional;Convencional;150
+ES442680000001;Producción y reproducción;Abejas;Producción productos apícolas ;Zoma (La);TERUEL;MONTALBÁN;30;700011;4517909;Estante;No Profesional;Convencional;35
+ES442680000800;Producción y reproducción;Abejas;Producción productos apícolas ;Zoma (La);TERUEL;MONTALBÁN;30;703544;4515801;Trashumante;Profesional;Convencional;475
+ES500010011004;Producción y reproducción;Abejas;Producción productos apícolas ;Abanto;ZARAGOZA;CALATAYUD;30;610535;4555488;Trashumante;No Profesional;Convencional;34
+ES500020011002;Producción y reproducción;Abejas;Mixta;Acered;ZARAGOZA;DAROCA;30;615116;4557262;Trashumante;No Profesional;;20
+ES500050011004;Producción y reproducción;Abejas;Producción productos apícolas ;Aguilón;ZARAGOZA;CARIÑENA;30;667580;4574870;Trashumante;No Profesional;;55
+ES500060011003;Producción y reproducción;Abejas;Producción productos apícolas ;Ainzón;ZARAGOZA;BORJA;30;619829;4622967;Trashumante;No Profesional;Convencional;220
+ES500060011005;Producción y reproducción;Abejas;Mixta;Ainzón;ZARAGOZA;BORJA;30;620019;4623167;Trashumante;Profesional;;20
+ES500060011006;Producción y reproducción;Abejas;Producción productos apícolas ;Ainzón;ZARAGOZA;BORJA;30;622335;4628960;Trashumante;No Profesional;;30
+ES500070011003;Producción y reproducción;Abejas;Producción productos apícolas ;Aladrén;ZARAGOZA;CARIÑENA;30;652552;4568230;Trashumante;Profesional;Convencional;355
+ES500070011008;Producción y reproducción;Abejas;Producción productos apícolas ;Aladrén;ZARAGOZA;CARIÑENA;30;652462;4568339;Trashumante;Profesional;;300
+ES500140011004;Producción y reproducción;Abejas;Mixta;Alcalá de Moncayo;ZARAGOZA;TARAZONA;30;610084;4629666;Trashumante;No Profesional;Convencional;150
+ES500170011003;Producción y reproducción;Abejas;Producción productos apícolas ;Alfajarín;ZARAGOZA;ZARAGOZA;30;700514;4607704;Trashumante;No Profesional;Convencional;185
+ES500170011015;Producción y reproducción;Abejas;Producción productos apícolas ;Alfajarín;ZARAGOZA;ZARAGOZA;30;694664;4609104;Trashumante;No Profesional;;20
+ES500170011017;Producción y reproducción;Abejas;Producción productos apícolas ;Alfajarín;ZARAGOZA;ZARAGOZA;30;698004;4613026;Trashumante;No Profesional;;50
+ES500230011002;Producción y reproducción;Abejas;Producción productos apícolas ;Almonacid de la Cuba;ZARAGOZA;BELCHITE;30;685190;4572489;Trashumante;No Profesional;Convencional;7
+ES500240011006;Producción y reproducción;Abejas;Mixta;Almonacid de la Sierra;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;640251;4582007;Estante;No Profesional;;20
+ES500240011007;Producción y reproducción;Abejas;Producción productos apícolas ;Almonacid de la Sierra;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;639012;4581279;Trashumante;No Profesional;;16
+ES500250011002;Producción y reproducción;Abejas;Producción productos apícolas ;Almunia de Doña Godina (La);ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;;;;Trashumante;Profesional;Convencional;180
+ES500260011001;Producción y reproducción;Abejas;Producción productos apícolas ;Alpartir;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;637202;4586616;Trashumante;No Profesional;Convencional;200
+ES500270011004;Producción y reproducción;Abejas;Producción productos apícolas ;Ambel;ZARAGOZA;BORJA;30;611696;4626527;Trashumante;No Profesional;;60
+ES500270011006;Producción y reproducción;Abejas;Mixta;Ambel;ZARAGOZA;BORJA;30;611413;4626411;Trashumante;No Profesional;;24
+ES500270011007;Producción y reproducción;Abejas;Mixta;Ambel;ZARAGOZA;BORJA;30;613793;4625883;Trashumante;Profesional;Convencional;400
+ES500270011010;Producción y reproducción;Abejas;Producción productos apícolas ;Ambel;ZARAGOZA;BORJA;30;616154;4626548;Trashumante;No Profesional;;20
+ES500280011002;Producción y reproducción;Abejas;Producción productos apícolas ;Anento;ZARAGOZA;DAROCA;;;;Trashumante;No Profesional;Convencional;10
+ES500280011003;Producción y reproducción;Abejas;Polinización;Anento;ZARAGOZA;DAROCA;30;639575;4548423;Trashumante;No Profesional;Convencional;50
+ES500290011001;Producción y reproducción;Abejas;Producción productos apícolas ;Aniñón;ZARAGOZA;CALATAYUD;30;605620;4594512;Trashumante;Profesional;Convencional;50
+ES500290011005;Producción y reproducción;Abejas;Mixta;Aniñón;ZARAGOZA;CALATAYUD;30;606232;4594181;Trashumante;No Profesional;;20
+ES500290011006;Producción y reproducción;Abejas;Mixta;Aniñón;ZARAGOZA;CALATAYUD;30;607248;4593555;Trashumante;No Profesional;;100
+ES500290011007;Producción y reproducción;Abejas;Polinización;Aniñón;ZARAGOZA;CALATAYUD;30;610125;4590837;Estante;No Profesional;;20
+ES500290011008;Producción y reproducción;Abejas;Producción productos apícolas ;Aniñón;ZARAGOZA;CALATAYUD;30;605817;4591929;Trashumante;Profesional;;210
+ES500300011001;Producción y reproducción;Abejas;Selección y cría apícola;Añón de Moncayo;ZARAGOZA;TARAZONA;30;607493;4625035;Trashumante;Profesional;Convencional;300
+ES500300011004;Producción y reproducción;Abejas;Selección y cría apícola;Añón de Moncayo;ZARAGOZA;TARAZONA;30;607493;4625035;Trashumante;Profesional;Convencional;400
+ES500300011008;Producción y reproducción;Abejas;Producción productos apícolas ;Añón de Moncayo;ZARAGOZA;TARAZONA;30;607781;4625012;Trashumante;No Profesional;Convencional;20
+ES500300011009;Producción y reproducción;Abejas;Selección y cría apícola;Añón de Moncayo;ZARAGOZA;TARAZONA;30;605613;4626731;Trashumante;Profesional;;400
+ES500300011012;Producción y reproducción;Abejas;Producción productos apícolas ;Añón de Moncayo;ZARAGOZA;TARAZONA;30;606627;4626668;Trashumante;No Profesional;;106
+ES500300011013;Producción y reproducción;Abejas;Mixta;Añón de Moncayo;ZARAGOZA;TARAZONA;30;606399;4626954;Trashumante;No Profesional;;15
+ES500310011003;Producción y reproducción;Abejas;Producción productos apícolas ;Aranda de Moncayo;ZARAGOZA;ILLUECA;30;593888;4599336;Trashumante;No Profesional;Convencional;55
+ES500310011005;Producción y reproducción;Abejas;Producción productos apícolas ;Aranda de Moncayo;ZARAGOZA;ILLUECA;30;600102;4602148;Estante;No Profesional;;15
+ES500310011006;Producción y reproducción;Abejas;Producción productos apícolas ;Aranda de Moncayo;ZARAGOZA;ILLUECA;30;600497;4604664;Estante;No Profesional;;40
+ES500320011004;Producción y reproducción;Abejas;Mixta;Arándiga;ZARAGOZA;CALATAYUD;30;623664;4596829;Trashumante;Profesional;;25
+ES500340011005;Producción y reproducción;Abejas;Producción productos apícolas ;Ariza;ZARAGOZA;ARIZA;;;;Trashumante;No Profesional;Convencional;15
+ES500340011007;Producción y reproducción;Abejas;Mixta;Ariza;ZARAGOZA;ARIZA;30;577368;4572614;Trashumante;No Profesional;;51
+ES500380011004;Producción y reproducción;Abejas;Producción productos apícolas ;Ateca;ZARAGOZA;CALATAYUD;30;598574;4579686;Trashumante;No Profesional;Convencional;56
+ES500380011005;Producción y reproducción;Abejas;Producción productos apícolas ;Ateca;ZARAGOZA;CALATAYUD;30;599610;4577661;Trashumante;No Profesional;Convencional;25
+ES500380011006;Producción y reproducción;Abejas;Mixta;Ateca;ZARAGOZA;CALATAYUD;30;602669;4575491;Trashumante;No Profesional;Convencional;12
+ES500380011007;Producción y reproducción;Abejas;Mixta;Ateca;ZARAGOZA;CALATAYUD;30;599954;4576280;Trashumante;Profesional;;150
+ES500380011008;Producción y reproducción;Abejas;Mixta;Ateca;ZARAGOZA;CALATAYUD;30;602142;4575684;Trashumante;Profesional;;150
+ES500390011005;Producción y reproducción;Abejas;Producción productos apícolas ;Azuara;ZARAGOZA;BELCHITE;30;674336;4564311;Trashumante;No Profesional;Convencional;25
+ES500390011006;Producción y reproducción;Abejas;Producción productos apícolas ;Azuara;ZARAGOZA;BELCHITE;30;676752;4569009;Trashumante;No Profesional;;50
+ES500430011001;Producción y reproducción;Abejas;Producción productos apícolas ;Barboles;ZARAGOZA;ALAGÓN;30;654522;4622452;Trashumante;No Profesional;;26
+ES500460011001;Producción y reproducción;Abejas;Producción productos apícolas ;Belmonte de Gracián;ZARAGOZA;CALATAYUD;;;;Trashumante;No Profesional;Convencional;100
+ES500540011001;Producción y reproducción;Abejas;Mixta;Bordalba;ZARAGOZA;ARIZA;30;574632;4584322;Trashumante;No Profesional;Convencional;25
+ES500550011002;Producción y reproducción;Abejas;Producción productos apícolas ;Borja;ZARAGOZA;BORJA;30;618145;4638517;Trashumante;No Profesional;Convencional;160
+ES500550011005;Producción y reproducción;Abejas;Producción productos apícolas ;Borja;ZARAGOZA;BORJA;;;;Trashumante;Profesional;Convencional;150
+ES500550011015;Producción y reproducción;Abejas;Producción productos apícolas ;Borja;ZARAGOZA;BORJA;30;619183;4624256;Trashumante;No Profesional;;50
+ES500550011016;Producción y reproducción;Abejas;Mixta;Borja;ZARAGOZA;BORJA;30;621577;4637098;Trashumante;No Profesional;;70
+ES500550011018;Producción y reproducción;Abejas;Mixta;Borja;ZARAGOZA;BORJA;30;619764;4634227;Trashumante;No Profesional;;20
+ES500570011002;Producción y reproducción;Abejas;Producción productos apícolas ;Brea de Aragón;ZARAGOZA;ILLUECA;30;615030;4596140;Trashumante;No Profesional;Convencional;100
+ES500590011001;Producción y reproducción;Abejas;Producción productos apícolas ;Bujaraloz;ZARAGOZA;BUJARALOZ;;;;Trashumante;No Profesional;Convencional;25
+ES500650011001;Producción y reproducción;Abejas;Producción productos apícolas ;Cabolafuente;ZARAGOZA;ARIZA;30;578646;4560100;Trashumante;Profesional;Convencional;250
+ES500650011002;Producción y reproducción;Abejas;Producción productos apícolas ;Cabolafuente;ZARAGOZA;ARIZA;30;579573;4565081;Estante;No Profesional;;20
+ES500650011003;Producción y reproducción;Abejas;Producción productos apícolas ;Cabolafuente;ZARAGOZA;ARIZA;30;581112;4565026;Estante;No Profesional;;10
+ES500660011008;Producción y reproducción;Abejas;Producción productos apícolas ;Cadrete;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;Convencional;20
+ES500660011010;Producción y reproducción;Abejas;Mixta;Cadrete;ZARAGOZA;ZARAGOZA;30;670884;4600076;Trashumante;No Profesional;;18
+ES500670011002;Producción y reproducción;Abejas;Producción productos apícolas ;Calatayud;ZARAGOZA;CALATAYUD;30;617398;4577976;Trashumante;No Profesional;Convencional;60
+ES500670011003;Producción y reproducción;Abejas;Producción productos apícolas ;Calatayud;ZARAGOZA;CALATAYUD;30;605119;4573791;Trashumante;Profesional;Convencional;250
+ES500670011006;Producción y reproducción;Abejas;Producción productos apícolas ;Calatayud;ZARAGOZA;CALATAYUD;30;614487;4581725;Trashumante;Profesional;Convencional;150
+ES500680011002;Producción y reproducción;Abejas;Polinización;Calatorao;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;637493;4596508;Trashumante;No Profesional;;40
+ES500690011003;Producción y reproducción;Abejas;Producción productos apícolas ;Calcena;ZARAGOZA;ILLUECA;30;608585;4613877;Trashumante;No Profesional;Convencional;20
+ES500700011002;Producción y reproducción;Abejas;Producción productos apícolas ;Calmarza;ZARAGOZA;ARIZA;30;589272;4557759;Estante;No Profesional;;20
+ES500700011005;Producción y reproducción;Abejas;Producción productos apícolas ;Calmarza;ZARAGOZA;ARIZA;30;589112;4556799;Trashumante;No Profesional;;100
+ES500720011001;Producción y reproducción;Abejas;Producción productos apícolas ;Carenas;ZARAGOZA;ARIZA;30;602066;4570107;Trashumante;No Profesional;Convencional;18
+ES500720011002;Producción y reproducción;Abejas;Producción productos apícolas ;Carenas;ZARAGOZA;ARIZA;30;601705;4570291;Trashumante;No Profesional;;27
+ES500730011004;Producción y reproducción;Abejas;Producción productos apícolas ;Cariñena;ZARAGOZA;CARIÑENA;30;652778;4577146;Trashumante;No Profesional;Convencional;12
+ES500740011001;Producción y reproducción;Abejas;Producción productos apícolas ;Caspe;ZARAGOZA;CASPE;30;742380;4563485;Trashumante;No Profesional;Convencional;20
+ES500740011008;Producción y reproducción;Abejas;Mixta;Caspe;ZARAGOZA;CASPE;31;254610;4580830;Trashumante;No Profesional;Convencional;300
+ES500740011009;Producción y reproducción;Abejas;Producción productos apícolas ;Caspe;ZARAGOZA;CASPE;30;746196;4561115;Trashumante;No Profesional;Convencional;150
+ES500740011017;Producción y reproducción;Abejas;Producción productos apícolas ;Caspe;ZARAGOZA;CASPE;30;745051;4565093;Trashumante;No Profesional;Convencional;45
+ES500740011021;Producción y reproducción;Abejas;Producción productos apícolas ;Caspe;ZARAGOZA;CASPE;30;741122;4567712;Trashumante;No Profesional;Convencional;25
+ES500740011026;Producción y reproducción;Abejas;Polinización;Caspe;ZARAGOZA;CASPE;30;748345;4558659;Trashumante;No Profesional;Convencional;46
+ES500740011028;Producción y reproducción;Abejas;Mixta;Caspe;ZARAGOZA;CASPE;31;248744;4568474;Trashumante;No Profesional;Convencional;10
+ES500740011029;Producción y reproducción;Abejas;Producción productos apícolas ;Caspe;ZARAGOZA;CASPE;30;743597;4567701;Trashumante;No Profesional;Convencional;25
+ES500740011036;Producción y reproducción;Abejas;Producción productos apícolas ;Caspe;ZARAGOZA;CASPE;30;750826;4579074;Trashumante;No Profesional;Convencional;15
+ES500740011047;Producción y reproducción;Abejas;Producción productos apícolas ;Caspe;ZARAGOZA;CASPE;30;744940;4566472;Trashumante;No Profesional;;20
+ES500740011050;Producción y reproducción;Abejas;Producción productos apícolas ;Caspe;ZARAGOZA;CASPE;31;250258;4565611;Estante;No Profesional;;20
+ES500740011056;Producción y reproducción;Abejas;Mixta;Caspe;ZARAGOZA;CASPE;30;744077;4566092;Trashumante;No Profesional;;25
+ES500740011060;Producción y reproducción;Abejas;Mixta;Caspe;ZARAGOZA;CASPE;30;748900;4563781;Trashumante;No Profesional;;20
+ES500770011005;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Valdejasa;ZARAGOZA;TAUSTE;;;;Trashumante;No Profesional;Convencional;60
+ES500770011006;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Valdejasa;ZARAGOZA;TAUSTE;30;668792;4646366;Trashumante;No Profesional;Convencional;50
+ES500770011007;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Valdejasa;ZARAGOZA;TAUSTE;30;668856;4648404;Trashumante;No Profesional;;25
+ES500770011009;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Valdejasa;ZARAGOZA;TAUSTE;30;665451;4647739;Trashumante;No Profesional;;30
+ES500770011011;Producción y reproducción;Abejas;Producción productos apícolas ;Castejón de Valdejasa;ZARAGOZA;TAUSTE;30;669360;4648630;Trashumante;No Profesional;;12
+ES500780011004;Producción y reproducción;Abejas;Producción productos apícolas ;Castiliscar;ZARAGOZA;SOS DEL REY CATÓLICO;30;644038;4692086;Trashumante;Profesional;Convencional;160
+ES500800011003;Producción y reproducción;Abejas;Producción productos apícolas ;Cerveruela;ZARAGOZA;DAROCA;30;650183;4563486;Estante;No Profesional;;25
+ES500810011003;Producción y reproducción;Abejas;Producción productos apícolas ;Cetina;ZARAGOZA;ARIZA;;;;Trashumante;Profesional;Convencional;170
+ES500810011008;Producción y reproducción;Abejas;Producción productos apícolas ;Cetina;ZARAGOZA;ARIZA;30;588828;4567396;Trashumante;Profesional;;250
+ES500810011010;Producción y reproducción;Abejas;Producción productos apícolas ;Cetina;ZARAGOZA;ARIZA;30;584665;4564312;Trashumante;No Profesional;;50
+ES500860011001;Producción y reproducción;Abejas;Producción productos apícolas ;Codos;ZARAGOZA;CALATAYUD;30;636747;4570838;Trashumante;No Profesional;Convencional;50
+ES500860011002;Producción y reproducción;Abejas;Producción productos apícolas ;Codos;ZARAGOZA;CALATAYUD;30;635340;4573476;Trashumante;No Profesional;Convencional;48
+ES500860011003;Producción y reproducción;Abejas;Producción productos apícolas ;Codos;ZARAGOZA;CALATAYUD;30;630982;4566403;Trashumante;No Profesional;Convencional;40
+ES500900011002;Producción y reproducción;Abejas;Producción productos apícolas ;Cubel;ZARAGOZA;DAROCA;30;612454;4548766;Trashumante;No Profesional;Convencional;47
+ES500920011002;Producción y reproducción;Abejas;Producción productos apícolas ;Chiprana;ZARAGOZA;CASPE;30;735560;4567763;Trashumante;Profesional;Convencional;416
+ES500920011003;Producción y reproducción;Abejas;Producción productos apícolas ;Chiprana;ZARAGOZA;CASPE;30;735468;4568219;Trashumante;No Profesional;Convencional;38
+ES500940011004;Producción y reproducción;Abejas;Producción productos apícolas ;Daroca;ZARAGOZA;DAROCA;;;;Trashumante;Profesional;Convencional;350
+ES500940011005;Producción y reproducción;Abejas;Producción productos apícolas ;Daroca;ZARAGOZA;DAROCA;;;;Trashumante;Profesional;Convencional;150
+ES500940011007;Producción y reproducción;Abejas;Producción productos apícolas ;Daroca;ZARAGOZA;DAROCA;30;634330;4553896;Trashumante;No Profesional;Convencional;670
+ES500940011009;Producción y reproducción;Abejas;Producción productos apícolas ;Daroca;ZARAGOZA;DAROCA;;;;Trashumante;No Profesional;Convencional;150
+ES500940011011;Producción y reproducción;Abejas;Mixta;Daroca;ZARAGOZA;DAROCA;30;633994;4551221;Trashumante;No Profesional;;20
+ES500940011012;Producción y reproducción;Abejas;Producción productos apícolas ;Daroca;ZARAGOZA;DAROCA;30;629716;4552601;Trashumante;No Profesional;;25
+ES500950011002;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;646420;4671278;Trashumante;Profesional;Convencional;150
+ES500950011003;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;643944;4659426;Trashumante;Profesional;Convencional;165
+ES500950011004;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;640630;4660423;Trashumante;Profesional;Convencional;220
+ES500950011008;Producción y reproducción;Abejas;Polinización;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;647343;4669778;Estante;No Profesional;Convencional;10
+ES500950011014;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;639977;4661607;Trashumante;Profesional;Convencional;440
+ES500950011016;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;105
+ES500950011019;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;22
+ES500950011023;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;Profesional;Convencional;210
+ES500950011024;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;31
+ES500950011026;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;50
+ES500950011032;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;50
+ES500950011033;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;646798;4658648;Trashumante;No Profesional;Convencional;40
+ES500950011037;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;;5
+ES500950011045;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;658246;4653971;Trashumante;No Profesional;;50
+ES500950011047;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;653777;4668125;Estante;No Profesional;;50
+ES500950011049;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;656086;4658774;Trashumante;No Profesional;;15
+ES500950011051;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;652761;4662016;Trashumante;No Profesional;;50
+ES500950011057;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;654784;4663497;Trashumante;No Profesional;;20
+ES500950011058;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;642486;4658701;Trashumante;No Profesional;;50
+ES500950011060;Producción y reproducción;Abejas;Producción productos apícolas ;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;650279;4653884;Trashumante;No Profesional;;5
+ES500950011061;Producción y reproducción;Abejas;Mixta;Ejea de los Caballeros;ZARAGOZA;EJEA DE LOS CABALLEROS;30;637441;4661050;Trashumante;No Profesional;;16
+ES500960011001;Producción y reproducción;Abejas;Producción productos apícolas ;Embid de Ariza;ZARAGOZA;ARIZA;30;589897;4581251;Trashumante;No Profesional;Convencional;40
+ES500960011002;Producción y reproducción;Abejas;Producción productos apícolas ;Embid de Ariza;ZARAGOZA;ARIZA;30;584478;4582244;Trashumante;No Profesional;;60
+ES500960011004;Producción y reproducción;Abejas;Producción productos apícolas ;Embid de Ariza;ZARAGOZA;ARIZA;30;588847;4579493;Trashumante;No Profesional;;20
+ES500980011002;Producción y reproducción;Abejas;Producción productos apícolas ;Encinacorba;ZARAGOZA;CARIÑENA;30;646694;4573629;Trashumante;No Profesional;Convencional;90
+ES500980011003;Producción y reproducción;Abejas;Mixta;Encinacorba;ZARAGOZA;CARIÑENA;30;645700;4569689;Trashumante;Profesional;Convencional;400
+ES500980011004;Producción y reproducción;Abejas;Producción productos apícolas ;Encinacorba;ZARAGOZA;CARIÑENA;30;642703;4574506;Trashumante;No Profesional;;30
+ES500980011005;Producción y reproducción;Abejas;Producción productos apícolas ;Encinacorba;ZARAGOZA;CARIÑENA;30;642705;4574508;Trashumante;Profesional;;150
+ES500980011006;Producción y reproducción;Abejas;Producción productos apícolas ;Encinacorba;ZARAGOZA;CARIÑENA;30;643033;4570685;Trashumante;Profesional;;200
+ES500990011002;Producción y reproducción;Abejas;Producción productos apícolas ;Épila;ZARAGOZA;ÉPILA;;;;Trashumante;Profesional;Convencional;825
+ES500990011007;Producción y reproducción;Abejas;Mixta;Épila;ZARAGOZA;ÉPILA;;;;Trashumante;Profesional;Convencional;850
+ES500990011008;Producción y reproducción;Abejas;Mixta;Épila;ZARAGOZA;ÉPILA;;;;Trashumante;No Profesional;Convencional;75
+ES500990011009;Producción y reproducción;Abejas;Producción productos apícolas ;Épila;ZARAGOZA;ÉPILA;;;;Trashumante;No Profesional;Convencional;250
+ES500990011010;Producción y reproducción;Abejas;Mixta;Épila;ZARAGOZA;ÉPILA;;;;Trashumante;No Profesional;Convencional;40
+ES500990011011;Producción y reproducción;Abejas;Producción productos apícolas ;Épila;ZARAGOZA;ÉPILA;30;628879;4609957;Trashumante;No Profesional;Convencional;20
+ES500990011012;Producción y reproducción;Abejas;Mixta;Épila;ZARAGOZA;ÉPILA;30;650267;4601662;Trashumante;No Profesional;Convencional;10
+ES500990011013;Producción y reproducción;Abejas;Producción productos apícolas ;Épila;ZARAGOZA;ÉPILA;30;644471;4605170;Trashumante;No Profesional;;68
+ES500990011015;Producción y reproducción;Abejas;Producción productos apícolas ;Épila;ZARAGOZA;ÉPILA;30;644472;4603469;Trashumante;Profesional;;100
+ES500990011016;Producción y reproducción;Abejas;Producción productos apícolas ;Épila;ZARAGOZA;ÉPILA;30;638335;4608220;Trashumante;No Profesional;;100
+ES500990011018;Producción y reproducción;Abejas;Producción productos apícolas ;Épila;ZARAGOZA;ÉPILA;30;664342;4601554;Trashumante;No Profesional;;100
+ES501020011003;Producción y reproducción;Abejas;Polinización;Fabara;ZARAGOZA;CASPE;30;764564;4567332;Trashumante;No Profesional;;120
+ES501050011002;Producción y reproducción;Abejas;Producción productos apícolas ;Fayón;ZARAGOZA;CASPE;31;275635;4569734;Trashumante;No Profesional;;40
+ES501130011001;Producción y reproducción;Abejas;Producción productos apícolas ;Fuendejalón;ZARAGOZA;BORJA;30;627240;4616061;Trashumante;Profesional;Convencional;2500
+ES501130011002;Producción y reproducción;Abejas;Producción productos apícolas ;Fuendejalón;ZARAGOZA;BORJA;30;627191;4617111;Trashumante;Profesional;;90
+ES501130011003;Producción y reproducción;Abejas;Mixta;Fuendejalón;ZARAGOZA;BORJA;30;627884;4616931;Trashumante;No Profesional;;15
+ES501140011002;Producción y reproducción;Abejas;Producción productos apícolas ;Fuendetodos;ZARAGOZA;BELCHITE;;;;Trashumante;No Profesional;Convencional;60
+ES501140011009;Producción y reproducción;Abejas;Producción productos apícolas ;Fuendetodos;ZARAGOZA;BELCHITE;30;677443;4578810;Trashumante;No Profesional;Convencional;40
+ES501140011010;Producción y reproducción;Abejas;Producción productos apícolas ;Fuendetodos;ZARAGOZA;BELCHITE;;;;Trashumante;No Profesional;;100
+ES501150011002;Producción y reproducción;Abejas;Mixta;Fuentes de Ebro;ZARAGOZA;ZARAGOZA;30;698195;4595492;Trashumante;No Profesional;Convencional;35
+ES501150011003;Producción y reproducción;Abejas;Mixta;Fuentes de Ebro;ZARAGOZA;ZARAGOZA;30;694759;4601957;Estante;No Profesional;Integrado ;10
+ES501150011004;Producción y reproducción;Abejas;Producción productos apícolas ;Fuentes de Ebro;ZARAGOZA;ZARAGOZA;30;699673;4599578;Trashumante;No Profesional;;100
+ES501170011001;Producción y reproducción;Abejas;Producción productos apícolas ;Gallocanta;ZARAGOZA;DAROCA;30;625236;4541208;Trashumante;No Profesional;Convencional;50
+ES501170011002;Producción y reproducción;Abejas;Producción productos apícolas ;Gallocanta;ZARAGOZA;DAROCA;30;624864;4541357;Trashumante;No Profesional;Convencional;20
+ES501170011003;Producción y reproducción;Abejas;Producción productos apícolas ;Gallocanta;ZARAGOZA;DAROCA;30;623985;4540203;Trashumante;Profesional;;300
+ES501170011004;Producción y reproducción;Abejas;Mixta;Gallocanta;ZARAGOZA;DAROCA;30;619859;4538867;Trashumante;Profesional;;450
+ES501190011002;Producción y reproducción;Abejas;Producción productos apícolas ;Gelsa;ZARAGOZA;QUINTO;30;710842;4584058;Trashumante;Profesional;Convencional;300
+ES501190011004;Producción y reproducción;Abejas;Producción productos apícolas ;Gelsa;ZARAGOZA;QUINTO;30;716582;4588773;Trashumante;No Profesional;;20
+ES501210011002;Producción y reproducción;Abejas;Producción productos apícolas ;Gotor;ZARAGOZA;ILLUECA;30;611001;4599014;Estante;No Profesional;Convencional;15
+ES501220011005;Producción y reproducción;Abejas;Producción productos apícolas ;Grisel;ZARAGOZA;TARAZONA;30;605449;4634197;Trashumante;Profesional;;100
+ES501240011010;Producción y reproducción;Abejas;Mixta;Herrera de los Navarros;ZARAGOZA;DAROCA;30;665520;4563324;Trashumante;No Profesional;;20
+ES501250011001;Producción y reproducción;Abejas;Producción productos apícolas ;Ibdes;ZARAGOZA;ARIZA;;;;Trashumante;Profesional;Convencional;500
+ES501300011001;Producción y reproducción;Abejas;Producción productos apícolas ;Jarque;ZARAGOZA;ILLUECA;30;611144;4606292;Trashumante;No Profesional;Convencional;110
+ES501300011002;Producción y reproducción;Abejas;Producción productos apícolas ;Jarque;ZARAGOZA;ILLUECA;30;611467;4603887;Trashumante;Profesional;;150
+ES501310011005;Producción y reproducción;Abejas;Producción productos apícolas ;Jaulín;ZARAGOZA;ZARAGOZA;30;670323;4585503;Trashumante;No Profesional;;40
+ES501360011004;Producción y reproducción;Abejas;Mixta;Lécera;ZARAGOZA;BELCHITE;30;694093;4554190;Trashumante;No Profesional;;25
+ES501360011006;Producción y reproducción;Abejas;Mixta;Lécera;ZARAGOZA;BELCHITE;30;689129;4565653;Trashumante;Profesional;;1000
+ES501370011001;Producción y reproducción;Abejas;Producción productos apícolas ;Leciñena;ZARAGOZA;ZUERA;30;701114;4634726;Trashumante;Profesional;Convencional;200
+ES501370011004;Producción y reproducción;Abejas;Producción productos apícolas ;Leciñena;ZARAGOZA;ZUERA;30;695367;4630281;Trashumante;No Profesional;Convencional;25
+ES501370011009;Producción y reproducción;Abejas;Producción productos apícolas ;Leciñena;ZARAGOZA;ZUERA;;;;Estante;No Profesional;Convencional;10
+ES501370011012;Producción y reproducción;Abejas;Producción productos apícolas ;Leciñena;ZARAGOZA;ZUERA;;;;Trashumante;No Profesional;Convencional;10
+ES501370011019;Producción y reproducción;Abejas;Mixta;Leciñena;ZARAGOZA;ZUERA;30;695970;4640241;Trashumante;No Profesional;;21
+ES501370011024;Producción y reproducción;Abejas;Producción productos apícolas ;Leciñena;ZARAGOZA;ZUERA;30;699542;4627108;Trashumante;No Profesional;;25
+ES501380011001;Producción y reproducción;Abejas;Producción productos apícolas ;Lechón;ZARAGOZA;DAROCA;30;645095;4549968;Trashumante;No Profesional;;16
+ES501390011004;Producción y reproducción;Abejas;Otras;Letux;ZARAGOZA;BELCHITE;;;;Estante;No Profesional;Convencional;20
+ES501390011005;Producción y reproducción;Abejas;Producción productos apícolas ;Letux;ZARAGOZA;BELCHITE;30;683911;4570102;Trashumante;No Profesional;Convencional;30
+ES501390011007;Producción y reproducción;Abejas;Producción productos apícolas ;Letux;ZARAGOZA;BELCHITE;30;682103;4569332;Trashumante;No Profesional;;25
+ES501400011005;Producción y reproducción;Abejas;Producción productos apícolas ;Litago;ZARAGOZA;TARAZONA;;;;Trashumante;No Profesional;Convencional;20
+ES501400011006;Producción y reproducción;Abejas;Mixta;Litago;ZARAGOZA;TARAZONA;30;604725;4630352;Trashumante;No Profesional;Convencional;20
+ES501400011008;Producción y reproducción;Abejas;Selección y cría apícola;Litago;ZARAGOZA;TARAZONA;30;601169;4629873;Trashumante;Profesional;;120
+ES501410011001;Producción y reproducción;Abejas;Producción productos apícolas ;Lituénigo;ZARAGOZA;TARAZONA;30;601841;4631252;Trashumante;Profesional;Convencional;160
+ES501410011002;Producción y reproducción;Abejas;Producción productos apícolas ;Lituénigo;ZARAGOZA;TARAZONA;30;602276;4632401;Trashumante;No Profesional;Convencional;300
+ES501410011004;Producción y reproducción;Abejas;Producción productos apícolas ;Lituénigo;ZARAGOZA;TARAZONA;30;605337;4633318;Trashumante;No Profesional;Convencional;35
+ES501410011005;Producción y reproducción;Abejas;Producción productos apícolas ;Lituénigo;ZARAGOZA;TARAZONA;30;602935;4631738;Trashumante;No Profesional;Convencional;40
+ES501410011007;Producción y reproducción;Abejas;Producción productos apícolas ;Lituénigo;ZARAGOZA;TARAZONA;30;603573;4632290;Trashumante;No Profesional;;150
+ES501480011001;Producción y reproducción;Abejas;Producción productos apícolas ;Luesia;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;300
+ES501480011003;Producción y reproducción;Abejas;Producción productos apícolas ;Luesia;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;70
+ES501480011005;Producción y reproducción;Abejas;Producción productos apícolas ;Luesia;ZARAGOZA;EJEA DE LOS CABALLEROS;30;661929;4696000;Estante;No Profesional;Convencional;80
+ES501480011006;Producción y reproducción;Abejas;Otras;Luesia;ZARAGOZA;EJEA DE LOS CABALLEROS;30;662373;4695354;Estante;No Profesional;;18
+ES501480011007;Producción y reproducción;Abejas;Producción productos apícolas ;Luesia;ZARAGOZA;EJEA DE LOS CABALLEROS;30;663191;4697033;Trashumante;No Profesional;;24
+ES501480011009;Producción y reproducción;Abejas;Producción productos apícolas ;Luesia;ZARAGOZA;EJEA DE LOS CABALLEROS;30;660464;4693699;Trashumante;No Profesional;;24
+ES501490011002;Producción y reproducción;Abejas;Producción productos apícolas ;Luesma;ZARAGOZA;DAROCA;30;655880;4559851;Trashumante;Profesional;Convencional;300
+ES501490011003;Producción y reproducción;Abejas;Producción productos apícolas ;Luesma;ZARAGOZA;DAROCA;;;;Estante;No Profesional;Convencional;50
+ES501510011001;Producción y reproducción;Abejas;Producción productos apícolas ;Luna;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;50
+ES501510011010;Producción y reproducción;Abejas;Producción productos apícolas ;Luna;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;40
+ES501510011013;Producción y reproducción;Abejas;Producción productos apícolas ;Luna;ZARAGOZA;EJEA DE LOS CABALLEROS;30;671381;4675012;Trashumante;Profesional;Ecológico;500
+ES501510011014;Producción y reproducción;Abejas;Producción productos apícolas ;Luna;ZARAGOZA;EJEA DE LOS CABALLEROS;30;672334;4673487;Trashumante;No Profesional;;30
+ES501510011015;Producción y reproducción;Abejas;Producción productos apícolas ;Luna;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;;26
+ES501540011002;Producción y reproducción;Abejas;Producción productos apícolas ;Mainar;ZARAGOZA;DAROCA;;;;Trashumante;Profesional;Convencional;190
+ES501540011003;Producción y reproducción;Abejas;Producción productos apícolas ;Mainar;ZARAGOZA;DAROCA;30;693189;4567235;Trashumante;No Profesional;;23
+ES501570011001;Producción y reproducción;Abejas;Producción productos apícolas ;Malón;ZARAGOZA;TARAZONA;30;609400;4644372;Estante;No Profesional;Convencional;15
+ES501590011001;Producción y reproducción;Abejas;Producción productos apícolas ;Maluenda;ZARAGOZA;CALATAYUD;;;;Trashumante;No Profesional;Convencional;100
+ES501590011002;Producción y reproducción;Abejas;Producción productos apícolas ;Maluenda;ZARAGOZA;CALATAYUD;30;615556;4573112;Trashumante;No Profesional;;50
+ES501590011003;Producción y reproducción;Abejas;Mixta;Maluenda;ZARAGOZA;CALATAYUD;30;613972;4570868;Trashumante;No Profesional;;50
+ES501600011002;Producción y reproducción;Abejas;Producción productos apícolas ;Mallén;ZARAGOZA;BORJA;30;626960;4641100;Trashumante;No Profesional;Convencional;
+ES501600011003;Producción y reproducción;Abejas;Producción productos apícolas ;Mallén;ZARAGOZA;BORJA;30;622470;4635139;Trashumante;No Profesional;Convencional;150
+ES501600011005;Producción y reproducción;Abejas;Mixta;Mallén;ZARAGOZA;BORJA;30;630607;4640673;Trashumante;No Profesional;;50
+ES501610011002;Producción y reproducción;Abejas;Mixta;Manchones;ZARAGOZA;DAROCA;30;627446;4555963;Trashumante;No Profesional;;40
+ES501650011001;Producción y reproducción;Abejas;Mixta;Mequinenza;ZARAGOZA;FRAGA;31;270335;4586747;Trashumante;No Profesional;Convencional;152
+ES501650011002;Producción y reproducción;Abejas;Mixta;Mequinenza;ZARAGOZA;FRAGA;;;;Trashumante;No Profesional;Convencional;152
+ES501650011005;Producción y reproducción;Abejas;Producción productos apícolas ;Mequinenza;ZARAGOZA;FRAGA;31;268900;4582870;Trashumante;No Profesional;;60
+ES501660011002;Producción y reproducción;Abejas;Producción productos apícolas ;Mesones de Isuela;ZARAGOZA;ILLUECA;30;620357;4601421;Trashumante;No Profesional;Convencional;140
+ES501660011003;Producción y reproducción;Abejas;Producción productos apícolas ;Mesones de Isuela;ZARAGOZA;ILLUECA;;;;Trashumante;No Profesional;Convencional;80
+ES501670011001;Producción y reproducción;Abejas;Producción productos apícolas ;Mezalocha;ZARAGOZA;CARIÑENA;;;;Trashumante;No Profesional;Convencional;40
+ES501690011001;Producción y reproducción;Abejas;Mixta;Miedes de Aragón;ZARAGOZA;CALATAYUD;30;631325;4566000;Trashumante;Profesional;;225
+ES501700011003;Producción y reproducción;Abejas;Producción productos apícolas ;Monegrillo;ZARAGOZA;QUINTO;30;720174;4609470;Trashumante;Profesional;Ecológico;200
+ES501710011005;Producción y reproducción;Abejas;Producción productos apícolas ;Moneva;ZARAGOZA;BELCHITE;;;;Trashumante;Profesional;Convencional;300
+ES501710011007;Producción y reproducción;Abejas;Mixta;Moneva;ZARAGOZA;BELCHITE;30;682097;4554598;Trashumante;No Profesional;;30
+ES501710011008;Producción y reproducción;Abejas;Mixta;Moneva;ZARAGOZA;BELCHITE;30;678993;4556343;Trashumante;No Profesional;;70
+ES501730011003;Producción y reproducción;Abejas;Producción productos apícolas ;Monterde;ZARAGOZA;CALATAYUD;;;;Trashumante;No Profesional;Convencional;40
+ES501730011004;Producción y reproducción;Abejas;Producción productos apícolas ;Monterde;ZARAGOZA;CALATAYUD;30;605974;4558980;Trashumante;No Profesional;Convencional;16
+ES501730011005;Producción y reproducción;Abejas;Producción productos apícolas ;Monterde;ZARAGOZA;CALATAYUD;;;;Trashumante;Profesional;Convencional;300
+ES501730011007;Producción y reproducción;Abejas;Producción productos apícolas ;Monterde;ZARAGOZA;CALATAYUD;;;;Trashumante;No Profesional;Convencional;30
+ES501730011013;Producción y reproducción;Abejas;Mixta;Monterde;ZARAGOZA;CALATAYUD;30;605678;4558166;Trashumante;No Profesional;;9
+ES501750011005;Producción y reproducción;Abejas;Mixta;Morata de Jalón;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;629114;4588725;Trashumante;No Profesional;Convencional;60
+ES501770011004;Producción y reproducción;Abejas;Polinización;Morés;ZARAGOZA;CALATAYUD;30;622814;4593544;Trashumante;No Profesional;Convencional;50
+ES501770011005;Producción y reproducción;Abejas;Mixta;Morés;ZARAGOZA;CALATAYUD;30;621042;4592086;Trashumante;No Profesional;;25
+ES501780011002;Producción y reproducción;Abejas;Producción productos apícolas ;Moros;ZARAGOZA;CALATAYUD;30;598099;4581893;Trashumante;No Profesional;;10
+ES501790011001;Producción y reproducción;Abejas;Producción productos apícolas ;Moyuela;ZARAGOZA;BELCHITE;30;672251;4559188;Trashumante;No Profesional;Convencional;250
+ES501790011002;Producción y reproducción;Abejas;Producción productos apícolas ;Moyuela;ZARAGOZA;BELCHITE;30;670070;4552524;Trashumante;No Profesional;Convencional;32
+ES501790011003;Producción y reproducción;Abejas;Producción productos apícolas ;Moyuela;ZARAGOZA;BELCHITE;30;673401;4559824;Trashumante;No Profesional;;30
+ES501790011004;Producción y reproducción;Abejas;Mixta;Moyuela;ZARAGOZA;BELCHITE;30;676890;4555412;Trashumante;Profesional;;300
+ES501830011001;Producción y reproducción;Abejas;Mixta;Munébrega;ZARAGOZA;CALATAYUD;30;604261;4569596;Trashumante;No Profesional;;20
+ES501840011002;Producción y reproducción;Abejas;Producción productos apícolas ;Murero;ZARAGOZA;DAROCA;30;627437;4556713;Estante;No Profesional;Convencional;12
+ES501890011002;Producción y reproducción;Abejas;Mixta;Nonaspe;ZARAGOZA;CASPE;31;269947;4560514;Estante;Profesional;;150
+ES501890011003;Producción y reproducción;Abejas;Producción productos apícolas ;Nonaspe;ZARAGOZA;CASPE;31;270298;4565593;Trashumante;Profesional;;250
+ES501900011001;Producción y reproducción;Abejas;Producción productos apícolas ;Novallas;ZARAGOZA;TARAZONA;30;606995;4644242;Trashumante;No Profesional;;3
+ES501920011003;Producción y reproducción;Abejas;Producción productos apícolas ;Nuévalos;ZARAGOZA;CALATAYUD;30;602865;4564360;Trashumante;No Profesional;;25
+ES501960011009;Producción y reproducción;Abejas;Producción productos apícolas ;Orera;ZARAGOZA;CALATAYUD;30;629031;4574332;Trashumante;No Profesional;;18
+ES501970011002;Producción y reproducción;Abejas;Producción productos apícolas ;Orés;ZARAGOZA;EJEA DE LOS CABALLEROS;30;664853;4684310;Trashumante;No Profesional;Convencional;65
+ES501970011003;Producción y reproducción;Abejas;Producción productos apícolas ;Orés;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Trashumante;No Profesional;Convencional;30
+ES501970011004;Producción y reproducción;Abejas;Producción productos apícolas ;Orés;ZARAGOZA;EJEA DE LOS CABALLEROS;30;666786;4686139;Estante;No Profesional;;45
+ES501980011001;Producción y reproducción;Abejas;Producción productos apícolas ;Oseja;ZARAGOZA;ILLUECA;30;607981;4608703;Trashumante;Profesional;Convencional;225
+ES501990011001;Producción y reproducción;Abejas;Producción productos apícolas ;Osera de Ebro;ZARAGOZA;ZARAGOZA;30;706246;4603910;Trashumante;No Profesional;Convencional;1250
+ES501990011004;Producción y reproducción;Abejas;Mixta;Osera de Ebro;ZARAGOZA;ZARAGOZA;30;704516;4601143;Trashumante;No Profesional;;130
+ES502000011004;Producción y reproducción;Abejas;Mixta;Paniza;ZARAGOZA;CARIÑENA;;;;Trashumante;Profesional;Convencional;415
+ES502000011005;Producción y reproducción;Abejas;Mixta;Paniza;ZARAGOZA;CARIÑENA;30;650933;4568085;Trashumante;No Profesional;;140
+ES502010011001;Producción y reproducción;Abejas;Producción productos apícolas ;Paracuellos de Jiloca;ZARAGOZA;CALATAYUD;30;610969;4573185;Trashumante;No Profesional;Convencional;20
+ES502010011004;Producción y reproducción;Abejas;Producción productos apícolas ;Paracuellos de Jiloca;ZARAGOZA;CALATAYUD;30;612419;4574230;Trashumante;No Profesional;;80
+ES502030011002;Producción y reproducción;Abejas;Mixta;Pastriz;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;Convencional;40
+ES502030011003;Producción y reproducción;Abejas;Selección y cría apícola;Pastriz;ZARAGOZA;ZARAGOZA;30;687532;4608673;Trashumante;No Profesional;;14
+ES502050011003;Producción y reproducción;Abejas;Producción productos apícolas ;Pedrosas (Las);ZARAGOZA;EJEA DE LOS CABALLEROS;30;674017;4654982;Trashumante;No Profesional;Convencional;50
+ES502050011005;Producción y reproducción;Abejas;Producción productos apícolas ;Pedrosas (Las);ZARAGOZA;EJEA DE LOS CABALLEROS;30;673046;4652221;Trashumante;No Profesional;Convencional;25
+ES502070011001;Producción y reproducción;Abejas;Producción productos apícolas ;Piedratajada;ZARAGOZA;EJEA DE LOS CABALLEROS;30;680601;4666250;Trashumante;No Profesional;Convencional;35
+ES502080011007;Producción y reproducción;Abejas;Producción productos apícolas ;Pina de Ebro;ZARAGOZA;QUINTO;30;712763;4596309;Estante;No Profesional;;50
+ES502100011001;Producción y reproducción;Abejas;Producción productos apícolas ;Pintanos (Los);ZARAGOZA;SOS DEL REY CATÓLICO;;;;Estante;No Profesional;Convencional;35
+ES502120011001;Producción y reproducción;Abejas;Mixta;Pleitas;ZARAGOZA;ALAGÓN;30;648623;4618802;Trashumante;No Profesional;;75
+ES502130011001;Producción y reproducción;Abejas;Producción productos apícolas ;Plenas;ZARAGOZA;BELCHITE;;;;Trashumante;Profesional;Convencional;192
+ES502140011005;Producción y reproducción;Abejas;Producción productos apícolas ;Pomer;ZARAGOZA;ILLUECA;30;595319;4608857;Trashumante;Profesional;Convencional;150
+ES502140011007;Producción y reproducción;Abejas;Producción productos apícolas ;Pomer;ZARAGOZA;ILLUECA;30;595271;4610541;Trashumante;No Profesional;Convencional;40
+ES502150011002;Producción y reproducción;Abejas;Mixta;Pozuel de Ariza;ZARAGOZA;ARIZA;30;573172;4579885;Estante;No Profesional;;10
+ES502200011001;Producción y reproducción;Abejas;Mixta;Puendeluna;ZARAGOZA;AYERBE;30;684674;4669193;Trashumante;No Profesional;;25
+ES502220011002;Producción y reproducción;Abejas;Producción productos apícolas ;Quinto;ZARAGOZA;QUINTO;30;703095;4591101;Trashumante;No Profesional;;70
+ES502230011003;Producción y reproducción;Abejas;Mixta;Remolinos;ZARAGOZA;ALAGÓN;30;651913;4634406;Trashumante;Profesional;Convencional;150
+ES502230011004;Producción y reproducción;Abejas;Producción productos apícolas ;Remolinos;ZARAGOZA;ALAGÓN;;;;Trashumante;No Profesional;Convencional;50
+ES502230011006;Producción y reproducción;Abejas;Producción productos apícolas ;Remolinos;ZARAGOZA;ALAGÓN;30;651764;4634358;Trashumante;No Profesional;;100
+ES502250011004;Producción y reproducción;Abejas;Producción productos apícolas ;Ricla;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;;;;Trashumante;Profesional;Convencional;748
+ES502250011006;Producción y reproducción;Abejas;Producción productos apícolas ;Ricla;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;;;;Trashumante;Profesional;Convencional;600
+ES502250011008;Producción y reproducción;Abejas;Mixta;Ricla;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;632959;4595383;Trashumante;Profesional;Convencional;400
+ES502250011011;Producción y reproducción;Abejas;Producción productos apícolas ;Ricla;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;;;;Estante;No Profesional;Convencional;45
+ES502250011014;Producción y reproducción;Abejas;Producción productos apícolas ;Ricla;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;631344;4604774;Trashumante;No Profesional;;30
+ES502280011001;Producción y reproducción;Abejas;Mixta;Rueda de Jalón;ZARAGOZA;ÉPILA;;;;Trashumante;Profesional;Convencional;190
+ES502290011001;Producción y reproducción;Abejas;Mixta;Ruesca;ZARAGOZA;CALATAYUD;30;629350;4570507;Trashumante;No Profesional;Convencional;3
+ES502300011001;Producción y reproducción;Abejas;Mixta;Sádaba;ZARAGOZA;SOS DEL REY CATÓLICO;30;637509;4682487;Trashumante;No Profesional;Convencional;120
+ES502300011005;Producción y reproducción;Abejas;Producción productos apícolas ;Sádaba;ZARAGOZA;SOS DEL REY CATÓLICO;30;634100;4674974;Trashumante;No Profesional;Convencional;80
+ES502330011002;Producción y reproducción;Abejas;Producción productos apícolas ;Samper del Salz;ZARAGOZA;BELCHITE;;;;Trashumante;No Profesional;Convencional;50
+ES502350011005;Producción y reproducción;Abejas;Producción productos apícolas ;San Mateo de Gállego;ZARAGOZA;ZUERA;30;686046;4628997;Trashumante;No Profesional;Convencional;20
+ES502360011003;Producción y reproducción;Abejas;Mixta;Santa Cruz de Grío;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;631342;4578762;Trashumante;No Profesional;Convencional;7
+ES502360011005;Producción y reproducción;Abejas;Producción productos apícolas ;Santa Cruz de Grío;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;633450;4580353;Trashumante;No Profesional;;20
+ES502360011008;Producción y reproducción;Abejas;Producción productos apícolas ;Santa Cruz de Grío;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;631457;4579811;Trashumante;No Profesional;;15
+ES502360011009;Producción y reproducción;Abejas;Mixta;Santa Cruz de Grío;ZARAGOZA;LA ALMUNIA DE DOÑA GODINA;30;632430;4582553;Trashumante;No Profesional;;70
+ES502380011005;Producción y reproducción;Abejas;Mixta;Santa Eulalia de Gállego;ZARAGOZA;AYERBE;30;680791;4678436;Trashumante;No Profesional;;25
+ES502390011002;Producción y reproducción;Abejas;Producción productos apícolas ;Santed;ZARAGOZA;DAROCA;30;625108;4541905;Trashumante;No Profesional;;70
+ES502400011003;Producción y reproducción;Abejas;Producción productos apícolas ;Sástago;ZARAGOZA;QUINTO;30;718405;4573509;Trashumante;No Profesional;Convencional;43
+ES502400011007;Producción y reproducción;Abejas;Producción productos apícolas ;Sástago;ZARAGOZA;QUINTO;;;;Trashumante;No Profesional;Convencional;15
+ES502400011010;Producción y reproducción;Abejas;Polinización;Sástago;ZARAGOZA;QUINTO;30;720863;4576092;Trashumante;Profesional;Convencional;350
+ES502400011011;Producción y reproducción;Abejas;Producción productos apícolas ;Sástago;ZARAGOZA;QUINTO;30;722932;4578652;Trashumante;No Profesional;;149
+ES502400011012;Producción y reproducción;Abejas;Producción productos apícolas ;Sástago;ZARAGOZA;QUINTO;30;735890;4583487;Trashumante;No Profesional;;20
+ES502400011013;Producción y reproducción;Abejas;Producción productos apícolas ;Sástago;ZARAGOZA;QUINTO;30;731824;4583121;Estante;No Profesional;;20
+ES502410011005;Producción y reproducción;Abejas;Mixta;Sabiñán;ZARAGOZA;CALATAYUD;30;618462;4589069;Trashumante;No Profesional;;30
+ES502430011005;Producción y reproducción;Abejas;Producción productos apícolas ;Sestrica;ZARAGOZA;ILLUECA;30;613475;4595695;Estante;No Profesional;Convencional;24
+ES502490011001;Producción y reproducción;Abejas;Producción productos apícolas ;Tabuenca;ZARAGOZA;BORJA;;;;Trashumante;No Profesional;Convencional;300
+ES502490011005;Producción y reproducción;Abejas;Producción productos apícolas ;Tabuenca;ZARAGOZA;BORJA;30;623458;4616436;Trashumante;Profesional;Convencional;730
+ES502490011006;Producción y reproducción;Abejas;Producción productos apícolas ;Tabuenca;ZARAGOZA;BORJA;30;622578;4612830;Trashumante;Profesional;;200
+ES502490011008;Producción y reproducción;Abejas;Mixta;Tabuenca;ZARAGOZA;BORJA;30;619988;4618687;Trashumante;No Profesional;;37
+ES502500011005;Producción y reproducción;Abejas;Mixta;Talamantes;ZARAGOZA;BORJA;30;611414;4617372;Trashumante;Profesional;;50
+ES502510011005;Producción y reproducción;Abejas;Producción productos apícolas ;Tarazona;ZARAGOZA;TARAZONA;;;;Trashumante;No Profesional;Convencional;25
+ES502510011010;Producción y reproducción;Abejas;Producción productos apícolas ;Tarazona;ZARAGOZA;TARAZONA;;;;Trashumante;No Profesional;Convencional;10
+ES502510011017;Producción y reproducción;Abejas;Producción productos apícolas ;Tarazona;ZARAGOZA;TARAZONA;30;602294;4643825;Trashumante;No Profesional;Convencional;20
+ES502510011019;Producción y reproducción;Abejas;Producción productos apícolas ;Tarazona;ZARAGOZA;TARAZONA;30;596893;4638264;Trashumante;No Profesional;Convencional;24
+ES502520011014;Producción y reproducción;Abejas;Producción productos apícolas ;Tauste;ZARAGOZA;TAUSTE;;;;Trashumante;No Profesional;Convencional;650
+ES502520011015;Producción y reproducción;Abejas;Producción productos apícolas ;Tauste;ZARAGOZA;TAUSTE;30;661016;4642830;Estante;No Profesional;;8
+ES502520011016;Producción y reproducción;Abejas;Producción productos apícolas ;Tauste;ZARAGOZA;TAUSTE;30;643182;4655023;Trashumante;No Profesional;Convencional;14
+ES502520011017;Producción y reproducción;Abejas;Producción productos apícolas ;Tauste;ZARAGOZA;TAUSTE;;;;Trashumante;No Profesional;;100
+ES502520011018;Producción y reproducción;Abejas;Mixta;Tauste;ZARAGOZA;TAUSTE;30;646400;4638676;Trashumante;Profesional;;150
+ES502520011020;Producción y reproducción;Abejas;Producción productos apícolas ;Tauste;ZARAGOZA;TAUSTE;30;645787;4640618;Trashumante;No Profesional;Convencional;12
+ES502520011022;Producción y reproducción;Abejas;Producción productos apícolas ;Tauste;ZARAGOZA;TAUSTE;30;661376;4641556;Trashumante;No Profesional;;50
+ES502520011023;Producción y reproducción;Abejas;Mixta;Tauste;ZARAGOZA;TAUSTE;30;644426;4648128;Trashumante;No Profesional;;50
+ES502520011025;Producción y reproducción;Abejas;Mixta;Tauste;ZARAGOZA;TAUSTE;30;636561;4644832;Trashumante;No Profesional;;100
+ES502520011026;Producción y reproducción;Abejas;Mixta;Tauste;ZARAGOZA;TAUSTE;30;654766;4645951;Trashumante;No Profesional;;107
+ES502530011003;Producción y reproducción;Abejas;Producción productos apícolas ;Terrer;ZARAGOZA;CALATAYUD;30;604164;4578814;Trashumante;No Profesional;;40
+ES502530011004;Producción y reproducción;Abejas;Mixta;Terrer;ZARAGOZA;CALATAYUD;30;606529;4571604;Trashumante;No Profesional;;150
+ES502550011005;Producción y reproducción;Abejas;Mixta;Tobed;ZARAGOZA;CALATAYUD;;;;Trashumante;Profesional;Convencional;220
+ES502570011001;Producción y reproducción;Abejas;Producción productos apícolas ;Torralba de Ribota;ZARAGOZA;CALATAYUD;;;;Trashumante;No Profesional;Convencional;235
+ES502580011001;Producción y reproducción;Abejas;Producción productos apícolas ;Torralbilla;ZARAGOZA;DAROCA;;;;Trashumante;Profesional;Convencional;188
+ES502580011003;Producción y reproducción;Abejas;Producción productos apícolas ;Torralbilla;ZARAGOZA;DAROCA;;;;Trashumante;No Profesional;Convencional;100
+ES502580011004;Producción y reproducción;Abejas;Mixta;Torralbilla;ZARAGOZA;DAROCA;30;641208;4565227;Trashumante;No Profesional;;40
+ES502600011001;Producción y reproducción;Abejas;Producción productos apícolas ;Torrelapaja;ZARAGOZA;CALATAYUD;;;;Trashumante;No Profesional;Convencional;26
+ES502630011007;Producción y reproducción;Abejas;Producción productos apícolas ;Torrijo de la Cañada;ZARAGOZA;CALATAYUD;30;595649;4590409;Trashumante;No Profesional;Convencional;30
+ES502640011002;Producción y reproducción;Abejas;Producción productos apícolas ;Tosos;ZARAGOZA;CARIÑENA;;;;Trashumante;No Profesional;;20
+ES502640011003;Producción y reproducción;Abejas;Producción productos apícolas ;Tosos;ZARAGOZA;CARIÑENA;30;658550;4573253;Estante;Profesional;;20
+ES502650011001;Producción y reproducción;Abejas;Producción productos apícolas ;Trasmoz;ZARAGOZA;TARAZONA;;;;Trashumante;No Profesional;Convencional;45
+ES502650011002;Producción y reproducción;Abejas;Mixta;Trasmoz;ZARAGOZA;TARAZONA;30;606731;4629680;Trashumante;Profesional;;15
+ES502660011001;Producción y reproducción;Abejas;Producción productos apícolas ;Trasobares;ZARAGOZA;ILLUECA;30;610730;4613126;Trashumante;No Profesional;;22
+ES502660011002;Producción y reproducción;Abejas;Producción productos apícolas ;Trasobares;ZARAGOZA;ILLUECA;;;;Trashumante;Profesional;Convencional;160
+ES502660011003;Producción y reproducción;Abejas;Producción productos apícolas ;Trasobares;ZARAGOZA;ILLUECA;30;612466;4613687;Trashumante;No Profesional;Convencional;80
+ES502660011005;Producción y reproducción;Abejas;Producción productos apícolas ;Trasobares;ZARAGOZA;ILLUECA;;;;Trashumante;No Profesional;Convencional;120
+ES502660011010;Producción y reproducción;Abejas;Mixta;Trasobares;ZARAGOZA;ILLUECA;;;;Trashumante;No Profesional;Convencional;30
+ES502660011014;Producción y reproducción;Abejas;Producción productos apícolas ;Trasobares;ZARAGOZA;ILLUECA;30;608921;4607040;Trashumante;No Profesional;Convencional;50
+ES502660011015;Producción y reproducción;Abejas;Producción productos apícolas ;Trasobares;ZARAGOZA;ILLUECA;30;611178;4616174;Estante;No Profesional;Convencional;20
+ES502670011004;Producción y reproducción;Abejas;Producción productos apícolas ;Uncastillo;ZARAGOZA;SOS DEL REY CATÓLICO;;;;Trashumante;No Profesional;Convencional;30
+ES502670011014;Producción y reproducción;Abejas;Producción productos apícolas ;Uncastillo;ZARAGOZA;SOS DEL REY CATÓLICO;;;;Trashumante;No Profesional;Convencional;20
+ES502670011025;Producción y reproducción;Abejas;Producción productos apícolas ;Uncastillo;ZARAGOZA;SOS DEL REY CATÓLICO;;;;Trashumante;No Profesional;Convencional;10
+ES502670011028;Producción y reproducción;Abejas;Producción productos apícolas ;Uncastillo;ZARAGOZA;SOS DEL REY CATÓLICO;;;;Trashumante;No Profesional;Convencional;35
+ES502670011032;Producción y reproducción;Abejas;Mixta;Uncastillo;ZARAGOZA;SOS DEL REY CATÓLICO;;;;Trashumante;No Profesional;Convencional;40
+ES502670011033;Producción y reproducción;Abejas;Producción productos apícolas ;Uncastillo;ZARAGOZA;SOS DEL REY CATÓLICO;30;644815;4692991;Trashumante;No Profesional;;36
+ES502670011035;Producción y reproducción;Abejas;Mixta;Uncastillo;ZARAGOZA;SOS DEL REY CATÓLICO;30;653894;4693082;Trashumante;No Profesional;;20
+ES502670011039;Producción y reproducción;Abejas;Producción productos apícolas ;Uncastillo;ZARAGOZA;SOS DEL REY CATÓLICO;30;695447;4697632;Trashumante;No Profesional;;20
+ES502680011001;Producción y reproducción;Abejas;Producción productos apícolas ;Undués de Lerda;ZARAGOZA;SOS DEL REY CATÓLICO;;;;Trashumante;No Profesional;Convencional;5
+ES502680011003;Producción y reproducción;Abejas;Mixta;Undués de Lerda;ZARAGOZA;SOS DEL REY CATÓLICO;30;649316;4712721;Estante;No Profesional;;40
+ES502690011002;Producción y reproducción;Abejas;Producción productos apícolas ;Urrea de Jalón;ZARAGOZA;ÉPILA;;;;Trashumante;No Profesional;Convencional;300
+ES502710011003;Producción y reproducción;Abejas;Producción productos apícolas ;Used;ZARAGOZA;DAROCA;;;;Trashumante;No Profesional;Convencional;12
+ES502720011001;Producción y reproducción;Abejas;Producción productos apícolas ;Utebo;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;;26
+ES502750011002;Producción y reproducción;Abejas;Polinización;Valmadrid;ZARAGOZA;BELCHITE;;;;Trashumante;No Profesional;Convencional;12
+ES502760011004;Producción y reproducción;Abejas;Mixta;Valpalmas;ZARAGOZA;EJEA DE LOS CABALLEROS;30;676118;4671838;Trashumante;Profesional;;200
+ES502760011005;Producción y reproducción;Abejas;Producción productos apícolas ;Valpalmas;ZARAGOZA;EJEA DE LOS CABALLEROS;;;;Estante;No Profesional;Convencional;20
+ES502760011006;Producción y reproducción;Abejas;Producción productos apícolas ;Valpalmas;ZARAGOZA;EJEA DE LOS CABALLEROS;30;687687;4670787;Estante;No Profesional;Convencional;10
+ES502780011001;Producción y reproducción;Abejas;Producción productos apícolas ;Velilla de Ebro;ZARAGOZA;QUINTO;30;712480;4578914;Trashumante;No Profesional;Convencional;35
+ES502820011001;Producción y reproducción;Abejas;Producción productos apícolas ;Vilueña (La);ZARAGOZA;CALATAYUD;;;;Trashumante;No Profesional;Convencional;30
+ES502820011002;Producción y reproducción;Abejas;Producción productos apícolas ;Vilueña (La);ZARAGOZA;CALATAYUD;;;;Trashumante;No Profesional;Convencional;20
+ES502840011002;Producción y reproducción;Abejas;Mixta;Villafeliche;ZARAGOZA;CALATAYUD;;;;Trashumante;No Profesional;Convencional;50
+ES502840011004;Producción y reproducción;Abejas;Producción productos apícolas ;Villafeliche;ZARAGOZA;CALATAYUD;30;626748;4560896;Trashumante;No Profesional;;50
+ES502880011001;Producción y reproducción;Abejas;Producción productos apícolas ;Villanueva de Gállego;ZARAGOZA;ZUERA;;;;Trashumante;No Profesional;Convencional;170
+ES502900011009;Producción y reproducción;Abejas;Producción productos apícolas ;Villanueva de Huerva;ZARAGOZA;CARIÑENA;30;663499;4582712;Trashumante;Profesional;;70
+ES502910011001;Producción y reproducción;Abejas;Mixta;Villar de los Navarros;ZARAGOZA;DAROCA;;;;Trashumante;No Profesional;Convencional;120
+ES502920011006;Producción y reproducción;Abejas;Mixta;Villarreal de Huerva;ZARAGOZA;DAROCA;30;646060;4561554;Trashumante;No Profesional;;20
+ES502930011001;Producción y reproducción;Abejas;Producción productos apícolas ;Villarroya de la Sierra;ZARAGOZA;CALATAYUD;;;;Trashumante;Profesional;Convencional;351
+ES502960011001;Producción y reproducción;Abejas;Producción productos apícolas ;Zaida (La);ZARAGOZA;QUINTO;30;713642;4579784;Trashumante;No Profesional;;12
+ES502970011005;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;Convencional;135
+ES502970011010;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;Profesional;Convencional;90
+ES502970011012;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;Convencional;40
+ES502970011013;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;Convencional;60
+ES502970011019;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;Convencional;60
+ES502970011044;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;Convencional;80
+ES502970011047;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;Convencional;40
+ES502970011051;Producción y reproducción;Abejas;Mixta;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;Profesional;Convencional;250
+ES502970011057;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;30;690807;4598031;Trashumante;No Profesional;Convencional;200
+ES502970011059;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;Profesional;Convencional;150
+ES502970011061;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;30;683193;4606148;Trashumante;No Profesional;Convencional;120
+ES502970011062;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;;;;Trashumante;No Profesional;Convencional;50
+ES502970011064;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;30;688796;4603035;Estante;No Profesional;;15
+ES502970011067;Producción y reproducción;Abejas;Producción productos apícolas ;Zaragoza;ZARAGOZA;ZARAGOZA;30;679616;4597912;Estante;No Profesional;Convencional;25
+ES502970011072;Producción y reproducción;Abejas;Mixta;Zaragoza;ZARAGOZA;ZARAGOZA;30;675376;4605573;Trashumante;No Profesional;;40
+ES502970011075;Producción y reproducción;Abejas;Mixta;Zaragoza;ZARAGOZA;ZARAGOZA;30;692677;4600004;Trashumante;No Profesional;;20
+ES502980011001;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;30;677384;4647891;Trashumante;No Profesional;Convencional;6
+ES502980011004;Producción y reproducción;Abejas;Mixta;Zuera;ZARAGOZA;ZUERA;;;;Trashumante;Profesional;Convencional;300
+ES502980011005;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;30;674213;4639467;Trashumante;No Profesional;Convencional;100
+ES502980011014;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;;;;Trashumante;No Profesional;Convencional;123
+ES502980011022;Producción y reproducción;Abejas;Mixta;Zuera;ZARAGOZA;ZUERA;;;;Trashumante;Profesional;Convencional;200
+ES502980011023;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;;;;Trashumante;No Profesional;Convencional;15
+ES502980011025;Producción y reproducción;Abejas;Mixta;Zuera;ZARAGOZA;ZUERA;;;;Trashumante;Profesional;Convencional;250
+ES502980011026;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;;;;Trashumante;No Profesional;Convencional;18
+ES502980011027;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;;;;Trashumante;Profesional;Convencional;400
+ES502980011028;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;;;;Trashumante;Profesional;Ecológico;150
+ES502980011031;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;30;675315;4645463;Trashumante;No Profesional;;8
+ES502980011032;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;;;;Trashumante;No Profesional;;100
+ES502980011033;Producción y reproducción;Abejas;Mixta;Zuera;ZARAGOZA;ZUERA;30;686452;4642522;Trashumante;No Profesional;;20
+ES502980011036;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;30;683186;4630687;Trashumante;No Profesional;;18
+ES502980011037;Producción y reproducción;Abejas;Mixta;Zuera;ZARAGOZA;ZUERA;30;686994;4639548;Trashumante;Profesional;;100
+ES502980011040;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;30;682724;4634585;Trashumante;No Profesional;;25
+ES502980011046;Producción y reproducción;Abejas;Producción productos apícolas ;Zuera;ZARAGOZA;ZUERA;30;670261;4643159;Trashumante;No Profesional;;10
+ES509010011005;Producción y reproducción;Abejas;Producción productos apícolas ;Biel;ZARAGOZA;EJEA DE LOS CABALLEROS;30;675076;4694914;Estante;No Profesional;Convencional;15
+ES509010011006;Producción y reproducción;Abejas;Mixta;Biel;ZARAGOZA;EJEA DE LOS CABALLEROS;30;668280;4691728;Trashumante;No Profesional;;40
+ES509020011001;Producción y reproducción;Abejas;Producción productos apícolas ;Marracos;ZARAGOZA;EJEA DE LOS CABALLEROS;30;684318;4661805;Trashumante;No Profesional;Convencional;50
+ES509020011002;Producción y reproducción;Abejas;Mixta;Marracos;ZARAGOZA;EJEA DE LOS CABALLEROS;30;684067;4662776;Trashumante;No Profesional;Convencional;20
+ES509030011004;Producción y reproducción;Abejas;Mixta;Villamayor de Gállego;ZARAGOZA;ZARAGOZA;30;690342;4615332;Trashumante;No Profesional;;20
